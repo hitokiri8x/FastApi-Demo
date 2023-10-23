@@ -1,0 +1,4158 @@
+[
+  {
+    "name": "locanda suitor",
+    "type": "locanda",
+    "address": "Largo Jeffrey Saad, 105 - Sizzano",
+    "info": {
+      "voto_medio": 4.14
+    }
+  },
+  {
+    "name": "bar kaberu",
+    "type": "bar",
+    "address": "Piazza Pati Jinich, 8 - Denno",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 16,
+      "voto_piatto_principale": 2.37,
+      "voto_medio": 3.67
+    }
+  },
+  {
+    "name": "ristorante propublication phenomenic",
+    "type": "streetfood",
+    "address": "Corso Gail Simmons, 33 - Mergozzo",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 55,
+      "voto_piatto_principale": 3.6,
+      "voto_medio": 4.6
+    }
+  },
+  {
+    "name": "osteria saccharoscope hopperburn Napoleon",
+    "type": "osteria",
+    "address": "Piazzetta Simon Rimmer, 109 - Esperia",
+    "info": {
+      "distanza_dal_centro": 5.6562569181137405
+    }
+  },
+  {
+    "name": "locanda outstagger photoceramic",
+    "type": "locanda",
+    "address": "Piazza Denis Cotter, 132 - Casorate Sempione",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 29,
+      "voto_piatto_principale": 5.0
+    }
+  },
+  {
+    "name": "bar kynurenic destructively",
+    "type": "bar",
+    "address": "Corso Nikola Vuković, 135 - Ruinas",
+    "info": {}
+  },
+  {
+    "name": "locanda phragmosis",
+    "type": "locanda",
+    "address": "Piazza Ripudaman Handa, 101 - Montegallo",
+    "info": {
+      "voto_medio": 4.65
+    }
+  },
+  {
+    "name": "osteria cholesterosis durst unsparkling",
+    "type": "osteria",
+    "address": "Corso Adam Gertler, 15 - Guarene",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 4.14
+    }
+  },
+  {
+    "name": "osteria paromologia unicornuted",
+    "type": "osteria",
+    "address": "Viale Jose Garces, 80 - Mappano",
+    "info": {
+      "distanza_dal_centro": 4.6881433615211474
+    }
+  },
+  {
+    "name": "ristorante demean occasion",
+    "type": "fast-food",
+    "address": "Largo Aaron McCargo, Jr., 85 - Montelupo Albese",
+    "info": {}
+  },
+  {
+    "name": "ristorante hemiform semifailure",
+    "type": "fastfood",
+    "address": "Via Dylan McGrath, 34 - Brisighella",
+    "info": {
+      "distanza_dal_centro": 1.6927280858016511,
+      "voto_medio": 3.2
+    }
+  },
+  {
+    "name": "bar superrighteous linteled snakeneck",
+    "type": "bar",
+    "address": "Strada Kamilla Seidler, 66 - Sambuca di Sicilia",
+    "info": {
+      "distanza_dal_centro": 3.3684847209784174
+    }
+  },
+  {
+    "name": "locanda sulphidic",
+    "type": "locanda",
+    "address": "Largo Justin Bogle, 23 - Tuoro sul Trasimeno",
+    "info": {
+      "distanza_dal_centro": 3.9007724888022395
+    }
+  },
+  {
+    "name": "osteria minima archflamen tergiversate",
+    "type": "osteria",
+    "address": "Largo Luke Thomas, 12 - Molise",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 33,
+      "voto_piatto_principale": 0.88
+    }
+  },
+  {
+    "name": "osteria Buddha gearwheel unbankable",
+    "type": "osteria",
+    "address": "Vicolo Nathan Lyon, 86 - Igliano",
+    "info": {}
+  },
+  {
+    "name": "bar sinkless",
+    "type": "bar",
+    "address": "Strada Ching He Huang, 93 - Chiusaforte",
+    "info": {
+      "distanza_dal_centro": 1.5910506290299757
+    }
+  },
+  {
+    "name": "osteria recount eisegetical",
+    "type": "osteria",
+    "address": "Corso Nikki Martin, 55 - Ornago",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar end",
+    "type": "bar",
+    "address": "Via Catherine Fulvio, 142 - Aci Castello",
+    "info": {
+      "distanza_dal_centro": 2.2802897930416028
+    }
+  },
+  {
+    "name": "locanda detailedly smite nipperkin",
+    "type": "locanda",
+    "address": "Largo Christina Tosi, 94 - Torralba",
+    "info": {
+      "distanza_dal_centro": 3.06577754570955,
+      "voto_medio": 2.01
+    }
+  },
+  {
+    "name": "ristorante adiaphorist",
+    "type": "streetfood",
+    "address": "Largo Paul Hollywood, 32 - Aiello Calabro",
+    "info": {
+      "voto_medio": 3.34
+    }
+  },
+  {
+    "name": "ristorante uninventiveness serigraph jervia",
+    "type": "fast-food",
+    "address": "Largo Anna Hansen, 135 - Fiesole",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 4.66
+    }
+  },
+  {
+    "name": "locanda Callistephus chronograph",
+    "type": "locanda",
+    "address": "Vicolo Jeffrey Saad, 38 - Terranova di Pollino",
+    "info": {
+      "distanza_dal_centro": 4.3624909094575681,
+      "voto_medio": 2.59
+    }
+  },
+  {
+    "name": "locanda Turkoman impalpably",
+    "type": "locanda",
+    "address": "Piazzale Daisy Martinez, 15 - Riace",
+    "info": {}
+  },
+  {
+    "name": "bar striking",
+    "type": "bar",
+    "address": "Vicolo Dawar Khan, 149 - Melfi",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 21,
+      "voto_piatto_principale": 4.61,
+      "distanza_dal_centro": 3.1343828267205822
+    }
+  },
+  {
+    "name": "ristorante murgavi eeler",
+    "type": "mensa",
+    "address": "Piazzale Madison Cowan, 57 - Sassofeltrio",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 27,
+      "voto_piatto_principale": 0.1,
+      "voto_medio": 0.53
+    }
+  },
+  {
+    "name": "locanda ustulate",
+    "type": "locanda",
+    "address": "Largo Benjamin Sargent, 150 - Sangiano",
+    "info": {
+      "voto_medio": 3.81
+    }
+  },
+  {
+    "name": "osteria unchopped upshear",
+    "type": "osteria",
+    "address": "Corso Erez Komarovsky, 146 - Massazza",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 27,
+      "voto_piatto_principale": 4.13
+    }
+  },
+  {
+    "name": "locanda postelementary",
+    "type": "locanda",
+    "address": "Vicolo Thierry Laborde, 93 - Merana",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 49,
+      "voto_piatto_principale": 3.47,
+      "distanza_dal_centro": null,
+      "voto_medio": 1.62
+    }
+  },
+  {
+    "name": "locanda kinesodic",
+    "type": "locanda",
+    "address": "Strada Aarti Sequeira, 135 - Cassago Brianza",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 19,
+      "voto_piatto_principale": 0.75
+    }
+  },
+  {
+    "name": "osteria alchemistical telemetrography",
+    "type": "osteria",
+    "address": "Strada Ali Salem Edbowa, 144 - Albizzate",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 27,
+      "voto_piatto_principale": 4.66
+    }
+  },
+  {
+    "name": "locanda Gymnanthes goosebill smoothbored",
+    "type": "locanda",
+    "address": "Corso Suzette Gresham, 62 - Librizzi",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 18,
+      "voto_piatto_principale": 2.43,
+      "distanza_dal_centro": 5.1700302602332808,
+      "voto_medio": 0.16
+    }
+  },
+  {
+    "name": "bar jockeydom on plebeiance",
+    "type": "bar",
+    "address": "Piazzetta Stacey Poon-Kinney, 75 - Savoca",
+    "info": {}
+  },
+  {
+    "name": "osteria rameal",
+    "type": "osteria",
+    "address": "Piazza Ripudaman Handa, 112 - Mercato Saraceno",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 49,
+      "voto_piatto_principale": 2.84,
+      "voto_medio": 3.1
+    }
+  },
+  {
+    "name": "ristorante gynandroid bamban",
+    "type": "casereccio",
+    "address": "Largo Wolfgang Puck, 30 - Antillo",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante kronur conscionable drinkable",
+    "type": "catena",
+    "address": "Strada Christine Hà, 118 - Cassinetta di Lugagnano",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 24,
+      "voto_piatto_principale": 1.49,
+      "distanza_dal_centro": null,
+      "voto_medio": 3.46
+    }
+  },
+  {
+    "name": "osteria hint Clackama desuetude",
+    "type": "osteria",
+    "address": "Vicolo Sunny Anderson, 123 - Neoneli",
+    "info": {}
+  },
+  {
+    "name": "bar pathfinding",
+    "type": "bar",
+    "address": "Piazza Ed Baines, 86 - Roccafranca",
+    "info": {}
+  },
+  {
+    "name": "locanda mouthroot",
+    "type": "locanda",
+    "address": "Corso Benjamin Sargent, 1 - Oltrona di San Mamette",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar opalinine predirector",
+    "type": "bar",
+    "address": "Corso Damaris Phillips, 136 - Pula",
+    "info": {}
+  },
+  {
+    "name": "osteria fostell mycorhiza chausseemeile",
+    "type": "osteria",
+    "address": "Piazza Dan Barber, 101 - Sarnano",
+    "info": {
+      "distanza_dal_centro": 2.7634718158433875
+    }
+  },
+  {
+    "name": "osteria fluidacetextract sirkeer",
+    "type": "osteria",
+    "address": "Piazzetta Christine Hà, 96 - Vestenanova",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 2,
+      "voto_piatto_principale": 0.96,
+      "distanza_dal_centro": 3.6982409946855905
+    }
+  },
+  {
+    "name": "ristorante Parbate",
+    "type": "casereccio",
+    "address": "Piazzale Amanda Freitag, 77 - Faicchio",
+    "info": {
+      "distanza_dal_centro": 5.7869662459947486,
+      "voto_medio": 1.47
+    }
+  },
+  {
+    "name": "bar shinty",
+    "type": "bar",
+    "address": "Via James Oseland, 7 - Castel Rozzone",
+    "info": {
+      "voto_medio": 2.07
+    }
+  },
+  {
+    "name": "locanda zoogeographically",
+    "type": "locanda",
+    "address": "Piazzale Cristina Bowerman, 2 - Ponzano Romano",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 54,
+      "voto_piatto_principale": 0.48
+    }
+  },
+  {
+    "name": "ristorante grip unentangled unidentifiableness",
+    "type": "buffet",
+    "address": "Viale Ron Ben-Israel, 98 - Frassinelle Polesine",
+    "info": {
+      "distanza_dal_centro": 4.3684044925581542
+    }
+  },
+  {
+    "name": "osteria gunstocker",
+    "type": "osteria",
+    "address": "Vicolo Amanda Freitag, 135 - Summonte",
+    "info": {}
+  },
+  {
+    "name": "ristorante feodary bifilarly",
+    "type": "fast-food",
+    "address": "Vicolo Jamie Bissonnette, 50 - Oniferi",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 32,
+      "voto_piatto_principale": 2.7,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante unslighted nonvocalic",
+    "type": "fastfood",
+    "address": "Vicolo Marcus Samuelsson, 76 - Olevano di Lomellina",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria Cipango",
+    "type": "osteria",
+    "address": "Strada Angelo Ciccone, 107 - Pomarolo",
+    "info": {
+      "distanza_dal_centro": 1.032683089963162
+    }
+  },
+  {
+    "name": "locanda unsufficed exsculptate selenotropic",
+    "type": "locanda",
+    "address": "Strada Sarah Grueneberg, 1 - Caprino Bergamasco",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 62,
+      "voto_piatto_principale": 4.41,
+      "distanza_dal_centro": 0.81105616266628755
+    }
+  },
+  {
+    "name": "ristorante disabled committer steeply",
+    "type": "streetfood",
+    "address": "Piazzetta Shauna Anderson, 126 - Valpelline",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante invalorous betanglement",
+    "type": "fusion",
+    "address": "Vicolo Enzo Oliveri, 39 - Rivello",
+    "info": {}
+  },
+  {
+    "name": "locanda Mazdakite copartnership hydraulically",
+    "type": "locanda",
+    "address": "Piazza Martie Duncan, 59 - Castiglione Chiavarese",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 5,
+      "voto_piatto_principale": 0.6
+    }
+  },
+  {
+    "name": "ristorante subarboreal",
+    "type": "Messicano",
+    "address": "Viale Erchen Chang, 64 - Montopoli in Val d'Arno",
+    "info": {}
+  },
+  {
+    "name": "osteria southwesterly backcourt",
+    "type": "osteria",
+    "address": "Vicolo Florence Knight, 53 - Ottiglio",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 0,
+      "voto_piatto_principale": 2.7
+    }
+  },
+  {
+    "name": "bar supervive",
+    "type": "bar",
+    "address": "Piazzale Paul Hollywood, 38 - Ortignano Raggiolo",
+    "info": {
+      "distanza_dal_centro": 0.27910788971524636
+    }
+  },
+  {
+    "name": "ristorante nonprofessed coindicant",
+    "type": "argentino",
+    "address": "Largo Lorraine Pascale, 52 - Saluzzo",
+    "info": {}
+  },
+  {
+    "name": "ristorante beet",
+    "type": "catena",
+    "address": "Largo Brooke E. Williamson, 60 - Pizzoferrato",
+    "info": {}
+  },
+  {
+    "name": "ristorante unnailed Hecatean Molluscoida",
+    "type": "italiano",
+    "address": "Largo Jay Rayner, 140 - Gorlago",
+    "info": {
+      "distanza_dal_centro": 5.4470265753975049
+    }
+  },
+  {
+    "name": "osteria dicotylous",
+    "type": "osteria",
+    "address": "Corso Marc Murphy, 87 - Urago d'Oglio",
+    "info": {
+      "distanza_dal_centro": 5.6218616479205048
+    }
+  },
+  {
+    "name": "osteria springwort irreducible",
+    "type": "osteria",
+    "address": "Piazzetta Mike Colameco, 128 - Exilles",
+    "info": {}
+  },
+  {
+    "name": "locanda ballasting Germanophobia",
+    "type": "locanda",
+    "address": "Viale Traci Des Jardins, 91 - Leggiuno",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 12,
+      "voto_piatto_principale": 3.01
+    }
+  },
+  {
+    "name": "osteria polyzoarium",
+    "type": "osteria",
+    "address": "Strada Derry Clarke, 78 - Galliera Veneta",
+    "info": {
+      "distanza_dal_centro": 2.4104086924301704
+    }
+  },
+  {
+    "name": "ristorante kilometer firedog gowiddie",
+    "type": "catena",
+    "address": "Piazza Aldo Zilli, 87 - Priocca",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 34,
+      "voto_piatto_principale": 2.73,
+      "voto_medio": 4.32
+    }
+  },
+  {
+    "name": "ristorante Betulaceae",
+    "type": "Italiano",
+    "address": "Piazzetta Bryan Voltaggio, 101 - Santa Fiora",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 53,
+      "voto_piatto_principale": 0.84
+    }
+  },
+  {
+    "name": "bar accompanimental",
+    "type": "bar",
+    "address": "Piazza Rick Moonen, 122 - Palazzolo sull'Oglio",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar Agrilus",
+    "type": "bar",
+    "address": "Largo Jamie Bissonnette, 11 - Charvensod",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 34,
+      "voto_piatto_principale": 1.52
+    }
+  },
+  {
+    "name": "bar broadcast proprietous dolichoprosopic",
+    "type": "bar",
+    "address": "Via Ripudaman Handa, 3 - Valdastico",
+    "info": {}
+  },
+  {
+    "name": "ristorante hexestrol",
+    "type": "cinese",
+    "address": "Viale Emma Bengtsson, 26 - Cefalù",
+    "info": {
+      "distanza_dal_centro": 3.3874564793445638,
+      "voto_medio": 2.64
+    }
+  },
+  {
+    "name": "locanda flagonet foremarch sarcastic",
+    "type": "locanda",
+    "address": "Strada Saiphin Moore, 102 - Arnad",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante topophobia",
+    "type": "Elegante",
+    "address": "Piazza Amy Finley, 71 - Novara di Sicilia",
+    "info": {}
+  },
+  {
+    "name": "locanda lofting Bremia",
+    "type": "locanda",
+    "address": "Corso James Oseland, 128 - Isola del Gran Sasso d'Italia",
+    "info": {
+      "distanza_dal_centro": 3.5692249448368081
+    }
+  },
+  {
+    "name": "osteria freeheartedness holothecal",
+    "type": "osteria",
+    "address": "Vicolo Lois Ellen Frank, 12 - San Paolo Solbrito",
+    "info": {}
+  },
+  {
+    "name": "bar therm Ioni",
+    "type": "bar",
+    "address": "Viale Edward Young-min Kwon, 10 - Cameri",
+    "info": {
+      "voto_medio": 3.47
+    }
+  },
+  {
+    "name": "locanda mesoperiodic",
+    "type": "locanda",
+    "address": "Piazzale Vivek Singh, 10 - Lessona",
+    "info": {}
+  },
+  {
+    "name": "ristorante commendam yeld",
+    "type": "streetfood",
+    "address": "Corso Jun Tanaka, 146 - Santa Marina",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 41,
+      "voto_piatto_principale": 1.55
+    }
+  },
+  {
+    "name": "osteria tacahout",
+    "type": "osteria",
+    "address": "Largo Miyoko Schinner, 28 - Mompantero",
+    "info": {}
+  },
+  {
+    "name": "bar rhagades blastogenetic",
+    "type": "bar",
+    "address": "Piazzale Tiffany Derry, 22 - Grottolella",
+    "info": {
+      "distanza_dal_centro": 4.4648166797352271
+    }
+  },
+  {
+    "name": "bar chrysobull hypospadias holotype",
+    "type": "bar",
+    "address": "Corso Simon Rimmer, 52 - Bondone",
+    "info": {}
+  },
+  {
+    "name": "bar flier hordenine gyre",
+    "type": "bar",
+    "address": "Via Nick Stellino, 73 - Lusiana Conco",
+    "info": {}
+  },
+  {
+    "name": "osteria city antipedal",
+    "type": "osteria",
+    "address": "Piazzale Nikki Martin, 8 - San Martino in Badia",
+    "info": {}
+  },
+  {
+    "name": "locanda ungeneraled uncottoned",
+    "type": "locanda",
+    "address": "Piazza Martie Duncan, 20 - Mongiuffi Melia",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 4.31,
+      "distanza_dal_centro": 5.0074649932251063,
+      "voto_medio": 1.42
+    }
+  },
+  {
+    "name": "locanda prechoroid nonsubscribing untrussing",
+    "type": "locanda",
+    "address": "Via Cat Cora, 113 - Issiglio",
+    "info": {
+      "voto_medio": 0.52
+    }
+  },
+  {
+    "name": "ristorante merchet frammit",
+    "type": "casereccio",
+    "address": "Vicolo Gabriele Bertaccini, 18 - Ischia di Castro",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar desiderative",
+    "type": "bar",
+    "address": "Strada Damaris Phillips, 32 - Traversetolo",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 5,
+      "voto_piatto_principale": 2.39,
+      "voto_medio": 3.23
+    }
+  },
+  {
+    "name": "bar lebbek stochastic ptilopaedic",
+    "type": "bar",
+    "address": "Piazzetta Daniel Rose, 5 - Rhêmes-Saint-Georges",
+    "info": {
+      "voto_medio": 0.65
+    }
+  },
+  {
+    "name": "bar transmittance micro rugosity",
+    "type": "bar",
+    "address": "Piazzetta Damaris Phillips, 97 - Modolo",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante diathetic wongen unvitalized",
+    "type": "fast-food",
+    "address": "Piazzale Emily Watkins, 134 - Rodengo",
+    "info": {}
+  },
+  {
+    "name": "bar meltage",
+    "type": "bar",
+    "address": "Viale Nikola Vuković, 142 - Candelo",
+    "info": {}
+  },
+  {
+    "name": "osteria nonornamental muckiness",
+    "type": "osteria",
+    "address": "Piazzale Kylie Kwong, 77 - Gaiarine",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 21,
+      "voto_piatto_principale": 4.51,
+      "voto_medio": 2.23
+    }
+  },
+  {
+    "name": "bar Phocoena Dasystephana thewy",
+    "type": "bar",
+    "address": "Strada Marcus Samuelsson, 16 - Gaiarine",
+    "info": {
+      "distanza_dal_centro": 4.2285092058530029
+    }
+  },
+  {
+    "name": "locanda ambrose sepulchral multisaccate",
+    "type": "locanda",
+    "address": "Strada Eric Aubriot, 103 - Follonica",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 2.38
+    }
+  },
+  {
+    "name": "osteria undoubtedness begruntle retroactivity",
+    "type": "osteria",
+    "address": "Via Anjum Anand, 50 - Altavilla Milicia",
+    "info": {
+      "voto_medio": 4.55
+    }
+  },
+  {
+    "name": "locanda irriguous",
+    "type": "locanda",
+    "address": "Largo Chris Santos, 91 - Gela",
+    "info": {
+      "voto_medio": 1.71
+    }
+  },
+  {
+    "name": "locanda nonvesture Robigalia obscuration",
+    "type": "locanda",
+    "address": "Corso Erchen Chang, 17 - Castel Boglione",
+    "info": {}
+  },
+  {
+    "name": "locanda Canopus Stilton hippophile",
+    "type": "locanda",
+    "address": "Viale Chris Cosentino, 44 - Bagnoregio",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 48,
+      "voto_piatto_principale": 2.29,
+      "voto_medio": 4.06
+    }
+  },
+  {
+    "name": "osteria unimagined",
+    "type": "osteria",
+    "address": "Corso Bryan Voltaggio, 121 - Magnacavallo",
+    "info": {}
+  },
+  {
+    "name": "osteria cursor stumpnose",
+    "type": "osteria",
+    "address": "Viale Pati Jinich, 94 - Montemonaco",
+    "info": {}
+  },
+  {
+    "name": "locanda adnominally plowlight",
+    "type": "locanda",
+    "address": "Piazzale Paolo Tullio, 108 - Torricella",
+    "info": {
+      "distanza_dal_centro": 3.9623980797830005
+    }
+  },
+  {
+    "name": "locanda proctalgy confirmingly unamicable",
+    "type": "locanda",
+    "address": "Strada Erez Komarovsky, 77 - San Paolo",
+    "info": {
+      "voto_medio": 0.73
+    }
+  },
+  {
+    "name": "locanda uterovesical",
+    "type": "locanda",
+    "address": "Piazzale Miyoko Schinner, 139 - Santa Croce sull'Arno",
+    "info": {}
+  },
+  {
+    "name": "locanda corporification flag",
+    "type": "locanda",
+    "address": "Corso Karen Keygnaert, 53 - Cassino",
+    "info": {}
+  },
+  {
+    "name": "bar charisticary intercommonable unadult",
+    "type": "bar",
+    "address": "Corso Paolo Tullio, 4 - Doberdob",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 9,
+      "voto_piatto_principale": 3.79
+    }
+  },
+  {
+    "name": "ristorante overcontraction unflexibleness",
+    "type": "Italiano",
+    "address": "Strada Tom Kerridge, 108 - Colzate",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante runlet moronism Erythea",
+    "type": "Elegante",
+    "address": "Viale Michael Bolster, 21 - Loro Piceno",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 39,
+      "voto_piatto_principale": 3.97,
+      "voto_medio": 3.07
+    }
+  },
+  {
+    "name": "bar outbake lexicological",
+    "type": "bar",
+    "address": "Piazzetta Marcus Samuelsson, 51 - Sutera",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar plushy scalpellic Papilionidae",
+    "type": "bar",
+    "address": "Piazzale Denis Cotter, 79 - Barumini",
+    "info": {}
+  },
+  {
+    "name": "locanda chaetopod petrel",
+    "type": "locanda",
+    "address": "Strada Martha Ortiz, 61 - San Secondo di Pinerolo",
+    "info": {
+      "voto_medio": 2.57
+    }
+  },
+  {
+    "name": "locanda rosario Lambadi",
+    "type": "locanda",
+    "address": "Strada Tom Colicchio, 39 - Viggiù",
+    "info": {
+      "distanza_dal_centro": 4.061525263349206
+    }
+  },
+  {
+    "name": "locanda passymeasure semislave",
+    "type": "locanda",
+    "address": "Corso Sophie Wright, 34 - Sant'Onofrio",
+    "info": {}
+  },
+  {
+    "name": "bar paster superimpregnation liquidamber",
+    "type": "bar",
+    "address": "Strada Paolo Tullio, 77 - Bertinoro",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 3.13
+    }
+  },
+  {
+    "name": "bar fablemongering incitingly",
+    "type": "bar",
+    "address": "Corso Mark Flanagan, 23 - Montaione",
+    "info": {}
+  },
+  {
+    "name": "bar circumneutral",
+    "type": "bar",
+    "address": "Piazza Angelo Ciccone, 141 - Primaluna",
+    "info": {
+      "distanza_dal_centro": 5.8477407464111746
+    }
+  },
+  {
+    "name": "osteria Dromiceius furilic",
+    "type": "osteria",
+    "address": "Largo Yianni Papoutsis, 26 - Vallebona",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 35,
+      "voto_piatto_principale": 4.53
+    }
+  },
+  {
+    "name": "osteria uncomprehendingly",
+    "type": "osteria",
+    "address": "Via Jeffrey Saad, 99 - Meana Sardo",
+    "info": {}
+  },
+  {
+    "name": "osteria meader dandiprat",
+    "type": "osteria",
+    "address": "Piazza Sue Torres, 23 - Pojana Maggiore",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 51,
+      "voto_piatto_principale": 2.72,
+      "voto_medio": 1.7
+    }
+  },
+  {
+    "name": "osteria plugman",
+    "type": "osteria",
+    "address": "Vicolo Suresh Pillai, 144 - Petruro Irpino",
+    "info": {
+      "voto_medio": 1.11
+    }
+  },
+  {
+    "name": "osteria cadgily verminly",
+    "type": "osteria",
+    "address": "Piazza Derry Clarke, 33 - Quarna Sotto",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 4.37
+    }
+  },
+  {
+    "name": "bar scutibranchian",
+    "type": "bar",
+    "address": "Piazzale Declan Ryan, 62 - Trisobbio",
+    "info": {
+      "distanza_dal_centro": 4.8873321658520483
+    }
+  },
+  {
+    "name": "locanda Siricidae mischief lockram",
+    "type": "locanda",
+    "address": "Corso Margot Janse, 22 - Sant'Angelo d'Alife",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 45,
+      "voto_piatto_principale": 4.16
+    }
+  },
+  {
+    "name": "bar postoperative paroxysmalist Uncompahgre",
+    "type": "bar",
+    "address": "Corso Jose Garces, 2 - Cercivento",
+    "info": {}
+  },
+  {
+    "name": "bar epural",
+    "type": "bar",
+    "address": "Piazzale Sophie Wright, 83 - Pallanzeno",
+    "info": {
+      "distanza_dal_centro": 3.948347945382948,
+      "voto_medio": 0.37
+    }
+  },
+  {
+    "name": "bar rungless",
+    "type": "bar",
+    "address": "Via Kevin Dundon, 73 - Montiano",
+    "info": {
+      "distanza_dal_centro": 1.9605132724841723,
+      "voto_medio": 3.51
+    }
+  },
+  {
+    "name": "locanda nephrotome uhllo",
+    "type": "locanda",
+    "address": "Largo Celia Jiménez, 14 - Montecassiano",
+    "info": {
+      "distanza_dal_centro": 4.72412956721925
+    }
+  },
+  {
+    "name": "ristorante hypersensualism",
+    "type": "argentino",
+    "address": "Corso Duff Goldman, 122 - Vitulano",
+    "info": {
+      "voto_medio": 1.26
+    }
+  },
+  {
+    "name": "osteria strenuousness",
+    "type": "osteria",
+    "address": "Via Pati Jinich, 64 - Campomarino",
+    "info": {
+      "voto_medio": 2.72
+    }
+  },
+  {
+    "name": "osteria wirling",
+    "type": "osteria",
+    "address": "Vicolo Clare Smyth, 134 - Oppeano",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 53,
+      "voto_piatto_principale": 2.98
+    }
+  },
+  {
+    "name": "ristorante endotheca cheapness photofinish",
+    "type": "casereccio",
+    "address": "Strada Marc Forgione, 18 - Roccagloriosa",
+    "info": {}
+  },
+  {
+    "name": "ristorante psychokinetic",
+    "type": "mensa",
+    "address": "Via Ching He Huang, 135 - Sogliano al Rubicone",
+    "info": {}
+  },
+  {
+    "name": "locanda quinquedentated",
+    "type": "locanda",
+    "address": "Piazza Toni Fiore, 61 - Caltabellotta",
+    "info": {
+      "voto_medio": 0.56
+    }
+  },
+  {
+    "name": "locanda procivilian",
+    "type": "locanda",
+    "address": "Piazza Anjum Anand, 30 - Edolo",
+    "info": {
+      "voto_medio": 0.44
+    }
+  },
+  {
+    "name": "ristorante regressive",
+    "type": "italiano",
+    "address": "Strada April Bloomfield, 136 - Giano dell'Umbria",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 32,
+      "voto_piatto_principale": 3.85,
+      "voto_medio": 0.89
+    }
+  },
+  {
+    "name": "osteria neocyte subterminal summerward",
+    "type": "osteria",
+    "address": "Piazzetta Lillian Elidah, 112 - Roseto degli Abruzzi",
+    "info": {
+      "voto_medio": 2.98
+    }
+  },
+  {
+    "name": "locanda aspidium supersanction coessentialness",
+    "type": "locanda",
+    "address": "Corso Emma Bengtsson, 144 - Carbone",
+    "info": {}
+  },
+  {
+    "name": "osteria Netherlander",
+    "type": "osteria",
+    "address": "Viale Cat Cora, 101 - Segariu",
+    "info": {}
+  },
+  {
+    "name": "locanda muse pachycephaly",
+    "type": "locanda",
+    "address": "Corso Pete Evans, 133 - Aquino",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 8,
+      "voto_piatto_principale": 4.97
+    }
+  },
+  {
+    "name": "ristorante allylamine",
+    "type": "streetfood",
+    "address": "Strada Gianfranco Chiarini, 109 - Gombito",
+    "info": {
+      "distanza_dal_centro": 1.4994923810115885,
+      "voto_medio": 4.06
+    }
+  },
+  {
+    "name": "ristorante bowgrace extranean",
+    "type": "messicano",
+    "address": "Piazzale Gianfranco Chiarini, 44 - San Marzano di San Giuseppe",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 13,
+      "voto_piatto_principale": 2.75,
+      "voto_medio": 2.92
+    }
+  },
+  {
+    "name": "osteria overcover bashawdom",
+    "type": "osteria",
+    "address": "Piazza Kate Williams, 52 - Orio al Serio",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria reaminess unboldness flowerpecker",
+    "type": "osteria",
+    "address": "Largo Gabriela Cámara, 56 - Baressa",
+    "info": {
+      "distanza_dal_centro": 2.799596108082179,
+      "voto_medio": 0.19
+    }
+  },
+  {
+    "name": "osteria Osmorhiza outcrawl",
+    "type": "osteria",
+    "address": "Viale April Bloomfield, 64 - Altrei",
+    "info": {}
+  },
+  {
+    "name": "bar visne pankin bricky",
+    "type": "bar",
+    "address": "Piazzale May Chow, 102 - Marzano",
+    "info": {
+      "distanza_dal_centro": 2.6564178775840603,
+      "voto_medio": 4.44
+    }
+  },
+  {
+    "name": "ristorante scarlatinal bemoult",
+    "type": "indiano",
+    "address": "Corso Scott Conant, 111 - Bergolo",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 30,
+      "voto_piatto_principale": 0.56,
+      "voto_medio": 4.94
+    }
+  },
+  {
+    "name": "bar latrocinium jowlish",
+    "type": "bar",
+    "address": "Vicolo Enzo Oliveri, 79 - Tremosine sul Garda",
+    "info": {
+      "distanza_dal_centro": 2.078471992422247
+    }
+  },
+  {
+    "name": "bar Kherwari",
+    "type": "bar",
+    "address": "Piazzetta Edward Young-min Kwon, 33 - Trento",
+    "info": {}
+  },
+  {
+    "name": "ristorante unenabled anorexy dorsalgia",
+    "type": "all you can eat",
+    "address": "Piazzetta Rita Jaima Paru, 67 - Altavilla Monferrato",
+    "info": {
+      "distanza_dal_centro": 2.29889030711439,
+      "voto_medio": 1.3
+    }
+  },
+  {
+    "name": "ristorante scoldable platystencephaly calidity",
+    "type": "all-you-can-eat",
+    "address": "Piazzale Kelsey Nixon, 20 - Bovisio-Masciago",
+    "info": {
+      "distanza_dal_centro": 4.2294613349674348
+    }
+  },
+  {
+    "name": "osteria hetter",
+    "type": "osteria",
+    "address": "Largo Amanda Freitag, 102 - Prezza",
+    "info": {
+      "distanza_dal_centro": 5.9187929526179142
+    }
+  },
+  {
+    "name": "locanda spondyloschisis enleague",
+    "type": "locanda",
+    "address": "Viale Ali Salem Edbowa, 105 - Castellina in Chianti",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 11,
+      "voto_piatto_principale": 2.18,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria nonpromulgation revolvement targer",
+    "type": "osteria",
+    "address": "Piazzetta Robert Irvine, 29 - Jesolo",
+    "info": {}
+  },
+  {
+    "name": "ristorante ureteropyelostomy bairnly",
+    "type": "cinese",
+    "address": "Strada Ripudaman Handa, 100 - Castellafiume",
+    "info": {}
+  },
+  {
+    "name": "osteria swung metalworking phrenocardia",
+    "type": "osteria",
+    "address": "Via Franco Noriega, 46 - Mottafollone",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 1,
+      "voto_piatto_principale": 3.73,
+      "distanza_dal_centro": null,
+      "voto_medio": 2.36
+    }
+  },
+  {
+    "name": "ristorante snuffman unsustainable songster",
+    "type": "argentino",
+    "address": "Piazza Traci Des Jardins, 61 - Virle Piemonte",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 0.66
+    }
+  },
+  {
+    "name": "osteria writmaker overcloseness",
+    "type": "osteria",
+    "address": "Strada Jeffrey Saad, 41 - Marchirolo",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria pseudorganic lithuria",
+    "type": "osteria",
+    "address": "Piazzetta Susur Lee, 126 - Lucoli",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 23,
+      "voto_piatto_principale": 3.71,
+      "voto_medio": 2.72
+    }
+  },
+  {
+    "name": "locanda lectureproof",
+    "type": "locanda",
+    "address": "Corso Vivek Singh, 105 - Riposto",
+    "info": {
+      "voto_medio": 3.76
+    }
+  },
+  {
+    "name": "locanda eisteddfod",
+    "type": "locanda",
+    "address": "Piazzale Nieves Barragán Mohacho, 8 - Taggia",
+    "info": {
+      "voto_medio": 0.23
+    }
+  },
+  {
+    "name": "ristorante untethered",
+    "type": "messicano",
+    "address": "Piazzale Lorna McNee, 31 - Cellatica",
+    "info": {}
+  },
+  {
+    "name": "bar millworker reactor",
+    "type": "bar",
+    "address": "Via Ed Baines, 140 - Tropea",
+    "info": {
+      "distanza_dal_centro": 5.7439635534063909,
+      "voto_medio": 2.47
+    }
+  },
+  {
+    "name": "ristorante hemocoel baith",
+    "type": "argent1no",
+    "address": "Piazzetta Danny Bowien, 15 - Capo d'Orlando",
+    "info": {
+      "distanza_dal_centro": 5.2758866388830166
+    }
+  },
+  {
+    "name": "osteria naviculaeform talliage",
+    "type": "osteria",
+    "address": "Piazza Jody Williams, 134 - Sant'Ambrogio di Torino",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 48,
+      "voto_piatto_principale": 2.14,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar anvilsmith organologic countertack",
+    "type": "bar",
+    "address": "Piazzale Justin Warner, 82 - Agliè",
+    "info": {}
+  },
+  {
+    "name": "osteria etch",
+    "type": "osteria",
+    "address": "Largo Alex Atala, 113 - Borgosatollo",
+    "info": {}
+  },
+  {
+    "name": "osteria connoisseurship encephalomalacosis ras",
+    "type": "osteria",
+    "address": "Piazza Adam Gertler, 0 - Arsago Seprio",
+    "info": {
+      "distanza_dal_centro": 2.44772720359448
+    }
+  },
+  {
+    "name": "bar orinasal",
+    "type": "bar",
+    "address": "Corso Declan Ryan, 83 - Balestrino",
+    "info": {
+      "distanza_dal_centro": 4.406816072757433
+    }
+  },
+  {
+    "name": "bar tetrachloroethane Aquarian",
+    "type": "bar",
+    "address": "Corso April Bloomfield, 24 - Belvedere Ostrense",
+    "info": {
+      "voto_medio": 4.95
+    }
+  },
+  {
+    "name": "bar spissitude metewand",
+    "type": "bar",
+    "address": "Piazzetta Lorraine Pascale, 91 - Bra",
+    "info": {
+      "distanza_dal_centro": 3.9260924057627227,
+      "voto_medio": 0.41
+    }
+  },
+  {
+    "name": "locanda jovial impartite sheepbiter",
+    "type": "locanda",
+    "address": "Corso Connie Achurra, 73 - Barone Canavese",
+    "info": {
+      "voto_medio": 3.06
+    }
+  },
+  {
+    "name": "ristorante trinervate viscidness packthread",
+    "type": "streetfood",
+    "address": "Piazzetta Gabriele Bertaccini, 67 - Pozzallo",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 26,
+      "voto_piatto_principale": 0.91,
+      "voto_medio": 1.53
+    }
+  },
+  {
+    "name": "bar logrolling",
+    "type": "bar",
+    "address": "Piazzale Gabriele Bertaccini, 4 - Volpedo",
+    "info": {
+      "distanza_dal_centro": 5.0529278195375822
+    }
+  },
+  {
+    "name": "locanda tankless",
+    "type": "locanda",
+    "address": "Piazzale Christina Tosi, 125 - Lecce nei Marsi",
+    "info": {}
+  },
+  {
+    "name": "osteria unpierced",
+    "type": "osteria",
+    "address": "Viale Chris Santos, 13 - Pozzuoli",
+    "info": {
+      "distanza_dal_centro": 1.630078852241464,
+      "voto_medio": 1.18
+    }
+  },
+  {
+    "name": "ristorante prizetaker phlogogenic Conchifera",
+    "type": "cinese",
+    "address": "Strada Freddie Bitsoie, 126 - Romeno",
+    "info": {}
+  },
+  {
+    "name": "bar perishable spermatozoal",
+    "type": "bar",
+    "address": "Piazzale Samia Ahad, 44 - Marsciano",
+    "info": {}
+  },
+  {
+    "name": "ristorante splayfooted toscanite",
+    "type": "elegante",
+    "address": "Via John Shields, 35 - Castegnato",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 49,
+      "voto_piatto_principale": 1.91
+    }
+  },
+  {
+    "name": "ristorante subpulmonary",
+    "type": "Messicano",
+    "address": "Viale Dan Barber, 26 - Bergantino",
+    "info": {
+      "voto_medio": 3.36
+    }
+  },
+  {
+    "name": "bar kreplech Athenian",
+    "type": "bar",
+    "address": "Corso Yvan Lemoine, 131 - Riccò del Golfo di Spezia",
+    "info": {}
+  },
+  {
+    "name": "bar level demesmerize masculinization",
+    "type": "bar",
+    "address": "Piazza Toni Fiore, 96 - Simaxis",
+    "info": {}
+  },
+  {
+    "name": "ristorante blown ladanum lerot",
+    "type": "mensa",
+    "address": "Viale Sean Brock, 37 - Castegnato",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar epeirogeny predelegation",
+    "type": "bar",
+    "address": "Strada Kate Williams, 80 - Villetta Barrea",
+    "info": {
+      "voto_medio": 4.17
+    }
+  },
+  {
+    "name": "bar rhodophyceous",
+    "type": "bar",
+    "address": "Via Valentine Warner, 84 - Augusta",
+    "info": {
+      "distanza_dal_centro": 1.0554897593399903
+    }
+  },
+  {
+    "name": "ristorante undivulging mentohyoid",
+    "type": "argentino",
+    "address": "Viale Ojo Charles, 25 - Canazei",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 17,
+      "voto_piatto_principale": 0.97,
+      "voto_medio": 3.99
+    }
+  },
+  {
+    "name": "locanda pleurotribal urari",
+    "type": "locanda",
+    "address": "Piazza Valentine Warner, 66 - Montenero Val Cocchiara",
+    "info": {}
+  },
+  {
+    "name": "bar gluside",
+    "type": "bar",
+    "address": "Piazzetta Andre Rush, 56 - Celico",
+    "info": {}
+  },
+  {
+    "name": "locanda blurt",
+    "type": "locanda",
+    "address": "Piazza Richard Blais, 4 - Gildone",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 2.5
+    }
+  },
+  {
+    "name": "bar slod unenthusiastically",
+    "type": "bar",
+    "address": "Corso Ed Baines, 89 - Ardea",
+    "info": {
+      "distanza_dal_centro": 4.2734448238066118,
+      "voto_medio": 4.65
+    }
+  },
+  {
+    "name": "locanda pinfeather barratrously niggardness",
+    "type": "locanda",
+    "address": "Piazzale Mikael Jonsson, 128 - Muggiò",
+    "info": {
+      "voto_medio": 0.61
+    }
+  },
+  {
+    "name": "bar baru lopseed",
+    "type": "bar",
+    "address": "Strada Thierry Laborde, 103 - San Bartolomeo Val Cavargna",
+    "info": {}
+  },
+  {
+    "name": "bar bebog Plusiinae chappaul",
+    "type": "bar",
+    "address": "Piazza Amy Finley, 55 - Centallo",
+    "info": {
+      "distanza_dal_centro": 1.2363166876305618
+    }
+  },
+  {
+    "name": "ristorante dispassionate bacchic",
+    "type": "argentino",
+    "address": "Vicolo Jeff Mauro, 80 - Castellalto",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 47,
+      "voto_piatto_principale": 3.87,
+      "distanza_dal_centro": 4.5713171309446547,
+      "voto_medio": 0.95
+    }
+  },
+  {
+    "name": "locanda paraenetic faithlessly",
+    "type": "locanda",
+    "address": "Viale Giada De Laurentiis, 82 - Locri",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 41,
+      "voto_piatto_principale": 4.01,
+      "voto_medio": 1.64
+    }
+  },
+  {
+    "name": "bar Macassar subserous agha",
+    "type": "bar",
+    "address": "Vicolo Catherine Fulvio, 132 - Carlazzo",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 3.5
+    }
+  },
+  {
+    "name": "ristorante germanization untholeably Senones",
+    "type": "Elegante",
+    "address": "Largo Sunny Anderson, 128 - Introdacqua",
+    "info": {}
+  },
+  {
+    "name": "osteria mollyhawk Styphelia",
+    "type": "osteria",
+    "address": "Strada Jose Garces, 130 - Carugo",
+    "info": {
+      "distanza_dal_centro": 4.6766608258404965,
+      "voto_medio": 2.2
+    }
+  },
+  {
+    "name": "locanda symbiot sulfamide lentisk",
+    "type": "locanda",
+    "address": "Piazzale Katie Lee, 114 - Pietrelcina",
+    "info": {}
+  },
+  {
+    "name": "bar afara Zosteraceae oocystaceous",
+    "type": "bar",
+    "address": "Strada Sarah Grueneberg, 111 - Lotzorai",
+    "info": {}
+  },
+  {
+    "name": "bar Oxyuridae preconfusion delicious",
+    "type": "bar",
+    "address": "Piazzetta Bryan Voltaggio, 12 - Bovalino",
+    "info": {}
+  },
+  {
+    "name": "ristorante noblemanly",
+    "type": "fusion",
+    "address": "Largo Derry Clarke, 4 - Somma Vesuviana",
+    "info": {
+      "distanza_dal_centro": 0.91965387693043166,
+      "voto_medio": 3.23
+    }
+  },
+  {
+    "name": "osteria labefaction nonpartiality hazelly",
+    "type": "osteria",
+    "address": "Piazza Kamilla Seidler, 43 - Corio",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 1.5
+    }
+  },
+  {
+    "name": "bar Biron eligibly",
+    "type": "bar",
+    "address": "Piazzale Suzette Gresham, 49 - Pieve di Soligo",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 3.75
+    }
+  },
+  {
+    "name": "osteria captainry",
+    "type": "osteria",
+    "address": "Largo Bryant Terry, 29 - San Romano in Garfagnana",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 40,
+      "voto_piatto_principale": 4.57
+    }
+  },
+  {
+    "name": "bar drinkability Uzbek foliary",
+    "type": "bar",
+    "address": "Piazza Anna Hansen, 24 - Rodano",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 54,
+      "voto_piatto_principale": 4.07,
+      "voto_medio": 4.44
+    }
+  },
+  {
+    "name": "locanda touchwood emendatory",
+    "type": "locanda",
+    "address": "Vicolo Marc Forgione, 90 - Casale di Scodosia",
+    "info": {
+      "distanza_dal_centro": 1.2784605447631674,
+      "voto_medio": 2.37
+    }
+  },
+  {
+    "name": "bar shied knitwork",
+    "type": "bar",
+    "address": "Strada Lois Ellen Frank, 124 - Cumignano sul Naviglio",
+    "info": {}
+  },
+  {
+    "name": "locanda interlaminar fagoter",
+    "type": "locanda",
+    "address": "Viale Emma Bengtsson, 144 - Borgomale",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 36,
+      "voto_piatto_principale": 2.34
+    }
+  },
+  {
+    "name": "osteria viscountcy coreciprocal temporohyoid",
+    "type": "osteria",
+    "address": "Vicolo Amy Finley, 147 - Corchiano",
+    "info": {}
+  },
+  {
+    "name": "locanda spoolwood zarabanda",
+    "type": "locanda",
+    "address": "Piazza Cat Cora, 45 - Vadena",
+    "info": {}
+  },
+  {
+    "name": "bar Dinomys",
+    "type": "bar",
+    "address": "Corso Justin Warner, 23 - Carate Urio",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 17,
+      "voto_piatto_principale": 0.69
+    }
+  },
+  {
+    "name": "osteria derate",
+    "type": "osteria",
+    "address": "Piazzale Anne Burrell, 134 - Gargazon",
+    "info": {
+      "voto_medio": 1.46
+    }
+  },
+  {
+    "name": "locanda flavine paneling thermochemistry",
+    "type": "locanda",
+    "address": "Strada Eric Aubriot, 149 - Force",
+    "info": {
+      "distanza_dal_centro": 4.8043828155533523
+    }
+  },
+  {
+    "name": "ristorante pulpousness",
+    "type": "Italiano",
+    "address": "Largo Erez Komarovsky, 82 - Urbisaglia",
+    "info": {}
+  },
+  {
+    "name": "locanda critic oven Gratiano",
+    "type": "locanda",
+    "address": "Piazza Paul Hollywood, 75 - Mugnano del Cardinale",
+    "info": {
+      "voto_medio": 0.73
+    }
+  },
+  {
+    "name": "osteria mephitis",
+    "type": "osteria",
+    "address": "Via Suzette Gresham, 39 - Pramollo",
+    "info": {
+      "voto_medio": 1.76
+    }
+  },
+  {
+    "name": "ristorante expertly",
+    "type": "buffet",
+    "address": "Strada Missy Robbins, 40 - Castiadas",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 43,
+      "voto_piatto_principale": 0.63,
+      "distanza_dal_centro": 4.96883559469372
+    }
+  },
+  {
+    "name": "ristorante easygoing cutisector pumpkinish",
+    "type": "argentino",
+    "address": "Piazzale Chris Cosentino, 22 - Travagliato",
+    "info": {}
+  },
+  {
+    "name": "ristorante imperfective superprelatical tonguefencer",
+    "type": "all you can eat",
+    "address": "Strada Martha Ortiz, 101 - Tinnura",
+    "info": {
+      "distanza_dal_centro": 3.0939107701462794
+    }
+  },
+  {
+    "name": "osteria supposed Rhegnopteri undeclamatory",
+    "type": "osteria",
+    "address": "Strada Enzo Oliveri, 145 - Melegnano",
+    "info": {}
+  },
+  {
+    "name": "locanda hoppet ejicient",
+    "type": "locanda",
+    "address": "Piazzetta Ching He Huang, 94 - Moggio",
+    "info": {
+      "distanza_dal_centro": 3.0205577199922971
+    }
+  },
+  {
+    "name": "bar fondling",
+    "type": "bar",
+    "address": "Vicolo Francis Mallmann, 6 - Cosio d'Arroscia",
+    "info": {}
+  },
+  {
+    "name": "ristorante circumaxillary digitalein Aplacophora",
+    "type": "fastfood",
+    "address": "Vicolo Kylie Kwong, 127 - Cannero Riviera",
+    "info": {}
+  },
+  {
+    "name": "locanda orchid Seidel membranule",
+    "type": "locanda",
+    "address": "Piazzale Ripudaman Handa, 127 - Carignano",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 30,
+      "voto_piatto_principale": 2.0
+    }
+  },
+  {
+    "name": "osteria fraxin clamor recuperability",
+    "type": "osteria",
+    "address": "Viale Magnus Nilsson, 93 - Endine Gaiano",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 18,
+      "voto_piatto_principale": 1.64
+    }
+  },
+  {
+    "name": "locanda inserted",
+    "type": "locanda",
+    "address": "Piazzale Daniel Rose, 10 - Maruggio",
+    "info": {}
+  },
+  {
+    "name": "ristorante tethydan mangonize orthochromatic",
+    "type": "cinese",
+    "address": "Piazza Ripudaman Handa, 8 - Bortigali",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 44,
+      "voto_piatto_principale": 3.95,
+      "distanza_dal_centro": 5.9987089828327536,
+      "voto_medio": 0.29
+    }
+  },
+  {
+    "name": "locanda photoplayer greaseproof precooling",
+    "type": "locanda",
+    "address": "Strada Daniel Rose, 77 - Loranzè",
+    "info": {}
+  },
+  {
+    "name": "osteria Traguloidea",
+    "type": "osteria",
+    "address": "Corso Daniel Rose, 87 - Cureggio",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 17,
+      "voto_piatto_principale": 4.45,
+      "voto_medio": 4.45
+    }
+  },
+  {
+    "name": "locanda decidua prearrest ratching",
+    "type": "locanda",
+    "address": "Via Justin Bogle, 86 - Nughedu San Nicolò",
+    "info": {}
+  },
+  {
+    "name": "bar alloeostropha",
+    "type": "bar",
+    "address": "Vicolo Kevin Dundon, 143 - Sant'Angelo Romano",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante hepatotoxemia casquetel Cerberean",
+    "type": "all you can eat",
+    "address": "Via Martha Ortiz, 34 - Magliano di Tenna",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 53,
+      "voto_piatto_principale": 4.62,
+      "distanza_dal_centro": 2.0012069312691834
+    }
+  },
+  {
+    "name": "osteria uberously",
+    "type": "osteria",
+    "address": "Strada Colombe Jacobsen, 84 - Manocalzati",
+    "info": {
+      "distanza_dal_centro": 4.5955237665479434,
+      "voto_medio": 0.1
+    }
+  },
+  {
+    "name": "ristorante rawish rumtytoo",
+    "type": "catena",
+    "address": "Piazza Toni Fiore, 101 - Castrolibero",
+    "info": {}
+  },
+  {
+    "name": "ristorante contently blastostyle podium",
+    "type": "allyoucaneat",
+    "address": "Largo Nancy Silverton, 132 - Seminara",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 47,
+      "voto_piatto_principale": 0.91,
+      "distanza_dal_centro": null,
+      "voto_medio": 1.89
+    }
+  },
+  {
+    "name": "osteria cumberment aplanat peridinial",
+    "type": "osteria",
+    "address": "Viale Nick Stellino, 30 - Stroppiana",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 29,
+      "voto_piatto_principale": 0.71,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante unsatiably",
+    "type": "fast-food",
+    "address": "Corso Nikola Vuković, 9 - Fobello",
+    "info": {
+      "distanza_dal_centro": 0.68637596145994917
+    }
+  },
+  {
+    "name": "bar Infundibulata",
+    "type": "bar",
+    "address": "Piazzale Michael Bolster, 144 - Sassinoro",
+    "info": {}
+  },
+  {
+    "name": "osteria unshakable",
+    "type": "osteria",
+    "address": "Strada Lillian Elidah, 142 - Cavour",
+    "info": {}
+  },
+  {
+    "name": "osteria Tinamidae airport amender",
+    "type": "osteria",
+    "address": "Corso Martha Ortiz, 104 - Maserada sul Piave",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante Maorilander commandership misperceive",
+    "type": "catena",
+    "address": "Piazzetta Eric Aubriot, 135 - Vesime",
+    "info": {
+      "voto_medio": 0.56
+    }
+  },
+  {
+    "name": "osteria isleted grimacier gemsbuck",
+    "type": "osteria",
+    "address": "Vicolo Patrick Guilbaud, 94 - Colosimi",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 0.54
+    }
+  },
+  {
+    "name": "bar heroess Necrophorus",
+    "type": "bar",
+    "address": "Piazza Marcus Samuelsson, 143 - San Felice del Molise",
+    "info": {
+      "voto_medio": 0.32
+    }
+  },
+  {
+    "name": "ristorante plantain webmaking",
+    "type": "streetfood",
+    "address": "Piazzale Tiffany Derry, 22 - Monte Porzio Catone",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 4.41
+    }
+  },
+  {
+    "name": "locanda investigating gramicidin",
+    "type": "locanda",
+    "address": "Via Nathan Lyon, 97 - Cadegliano-Viconago",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 28,
+      "voto_piatto_principale": 2.42
+    }
+  },
+  {
+    "name": "locanda Phororhacidae poutingly",
+    "type": "locanda",
+    "address": "Piazzale Maneet Chauhan, 23 - Acate",
+    "info": {
+      "voto_medio": 4.25
+    }
+  },
+  {
+    "name": "locanda Anglomane panchion waxchandler",
+    "type": "locanda",
+    "address": "Piazza Rick Moonen, 144 - Felino",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 25,
+      "voto_piatto_principale": 3.52,
+      "distanza_dal_centro": 4.0543290466701869
+    }
+  },
+  {
+    "name": "bar convex hepatoportal hypopyon",
+    "type": "bar",
+    "address": "Piazzetta Aarón Sanchez, 138 - Lenola",
+    "info": {}
+  },
+  {
+    "name": "locanda vanillon",
+    "type": "locanda",
+    "address": "Largo Danny Bowien, 23 - Saccolongo",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 61,
+      "voto_piatto_principale": 3.94,
+      "voto_medio": 0.49
+    }
+  },
+  {
+    "name": "bar coma",
+    "type": "bar",
+    "address": "Piazzetta Wendy Rahamut, 54 - Frontino",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "locanda juniper stipulator embryoctony",
+    "type": "locanda",
+    "address": "Strada Nadia Giosia, 138 - Incudine",
+    "info": {}
+  },
+  {
+    "name": "bar mesameboid statue extratracheal",
+    "type": "bar",
+    "address": "Strada Nobu Matsuhisa, 24 - Roascio",
+    "info": {}
+  },
+  {
+    "name": "ristorante nimbated",
+    "type": "italiano",
+    "address": "Piazza Pati Jinich, 77 - Castelvenere",
+    "info": {
+      "voto_medio": 3.51
+    }
+  },
+  {
+    "name": "ristorante stonewise",
+    "type": "messicano",
+    "address": "Piazzale Vicky Lau, 69 - Rifiano",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 8,
+      "voto_piatto_principale": 2.64,
+      "distanza_dal_centro": null,
+      "voto_medio": 2.92
+    }
+  },
+  {
+    "name": "bar sulphonamide literalistic",
+    "type": "bar",
+    "address": "Viale Saiphin Moore, 68 - Torgiano",
+    "info": {
+      "distanza_dal_centro": 0.10322057618460079,
+      "voto_medio": 4.12
+    }
+  },
+  {
+    "name": "bar snipsnapsnorum",
+    "type": "bar",
+    "address": "Corso Anna Hansen, 59 - Torrebelvicino",
+    "info": {
+      "distanza_dal_centro": 0.03237784768223495
+    }
+  },
+  {
+    "name": "bar tarand Picae conscious",
+    "type": "bar",
+    "address": "Strada Daniel Rose, 10 - Magenta",
+    "info": {}
+  },
+  {
+    "name": "ristorante evocatrix spermatolysis",
+    "type": "fusion",
+    "address": "Strada Dave Arnold, 116 - Castell'Azzara",
+    "info": {
+      "distanza_dal_centro": 5.4394131126856875
+    }
+  },
+  {
+    "name": "osteria cyphellate solutize",
+    "type": "osteria",
+    "address": "Piazzetta Martie Duncan, 106 - Volla",
+    "info": {
+      "distanza_dal_centro": 1.1159042827088352
+    }
+  },
+  {
+    "name": "osteria overfroth",
+    "type": "osteria",
+    "address": "Via Suzette Gresham, 79 - Celle di Macra",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 9,
+      "voto_piatto_principale": 4.95
+    }
+  },
+  {
+    "name": "osteria ortolan supertonic",
+    "type": "osteria",
+    "address": "Piazzale Elizabeth Haigh, 84 - Cocconato",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 40,
+      "voto_piatto_principale": 4.88
+    }
+  },
+  {
+    "name": "bar heavenful parasemidine pneumatical",
+    "type": "bar",
+    "address": "Piazzale Lorna McNee, 114 - Sannicola",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 0.43
+    }
+  },
+  {
+    "name": "ristorante endue",
+    "type": "elegante",
+    "address": "Viale Alvin Leung, 31 - Ala",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 49,
+      "voto_piatto_principale": 2.48,
+      "distanza_dal_centro": 3.3462379376440357,
+      "voto_medio": 4.24
+    }
+  },
+  {
+    "name": "bar smaze",
+    "type": "bar",
+    "address": "Piazzale Wolfgang Puck, 22 - Scheggia e Pascelupo",
+    "info": {}
+  },
+  {
+    "name": "locanda jactant",
+    "type": "locanda",
+    "address": "Via Marc Forgione, 134 - Fabrizia",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 0.12
+    }
+  },
+  {
+    "name": "locanda amorado tintingly",
+    "type": "locanda",
+    "address": "Piazzale Duff Goldman, 117 - Zanica",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 43,
+      "voto_piatto_principale": 3.05,
+      "voto_medio": 4.56
+    }
+  },
+  {
+    "name": "osteria nondomesticated unbalanceable liber",
+    "type": "osteria",
+    "address": "Piazzetta Pete Evans, 23 - Ittiri",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 33,
+      "voto_piatto_principale": 3.69
+    }
+  },
+  {
+    "name": "locanda discoverable membranoid cliquishly",
+    "type": "locanda",
+    "address": "Piazzetta Shane Lyons, 143 - Torre de' Passeri",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 45,
+      "voto_piatto_principale": 2.82,
+      "distanza_dal_centro": 3.2144425916054518
+    }
+  },
+  {
+    "name": "bar ataxite",
+    "type": "bar",
+    "address": "Largo Anita Klemensen, 92 - Nocera Umbra",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante wirepuller unborne",
+    "type": "buffet",
+    "address": "Corso Duff Goldman, 77 - Pornassio",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 47,
+      "voto_piatto_principale": 3.55
+    }
+  },
+  {
+    "name": "ristorante rubricist uncrook",
+    "type": "all you can eat",
+    "address": "Strada Clare Smyth, 21 - Trigolo",
+    "info": {}
+  },
+  {
+    "name": "bar unperishable",
+    "type": "bar",
+    "address": "Piazzale Suresh Pillai, 65 - Abbadia San Salvatore",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 28,
+      "voto_piatto_principale": 2.24,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar wallboard rule emmetropic",
+    "type": "bar",
+    "address": "Strada Wolfgang Puck, 100 - Cinquefrondi",
+    "info": {}
+  },
+  {
+    "name": "osteria scyphistomoid achromatizable",
+    "type": "osteria",
+    "address": "Piazzetta Shane Lyons, 50 - Cantoira",
+    "info": {
+      "distanza_dal_centro": 4.0855255792958145
+    }
+  },
+  {
+    "name": "locanda exclusionary",
+    "type": "locanda",
+    "address": "Piazza Catherine Fulvio, 20 - Carasco",
+    "info": {}
+  },
+  {
+    "name": "ristorante pantotherian Exocoetidae gammer",
+    "type": "fusion",
+    "address": "Piazzale Ron Ben-Israel, 121 - Baressa",
+    "info": {}
+  },
+  {
+    "name": "locanda outrick psalmistry Riffian",
+    "type": "locanda",
+    "address": "Piazzale Gabriela Cámara, 92 - Cortenova",
+    "info": {}
+  },
+  {
+    "name": "locanda printability neurosyphilis youwards",
+    "type": "locanda",
+    "address": "Viale Denis Cotter, 27 - Introbio",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 42,
+      "voto_piatto_principale": 3.88,
+      "distanza_dal_centro": 4.7087196334510306
+    }
+  },
+  {
+    "name": "ristorante pokeful trisulcated",
+    "type": "all-you-can-eat",
+    "address": "Viale Alvin Leung, 135 - Carlopoli",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 48,
+      "voto_piatto_principale": 1.39
+    }
+  },
+  {
+    "name": "locanda ketose ultrauncommon",
+    "type": "locanda",
+    "address": "Largo Kevin Thornton, 8 - Valstrona",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 25,
+      "voto_piatto_principale": 1.7
+    }
+  },
+  {
+    "name": "locanda unreceived fervidly contemporaneity",
+    "type": "locanda",
+    "address": "Viale Anita Klemensen, 95 - Anzi",
+    "info": {
+      "distanza_dal_centro": 0.37469485889674492
+    }
+  },
+  {
+    "name": "bar organistic tealery Manchurian",
+    "type": "bar",
+    "address": "Piazzetta Colombe Jacobsen, 21 - Castenaso",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante pluripotence dipsomaniacal tracheoplasty",
+    "type": "indiano",
+    "address": "Vicolo Danny Bowien, 67 - Briga Alta",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 29,
+      "voto_piatto_principale": 3.34,
+      "voto_medio": 1.47
+    }
+  },
+  {
+    "name": "osteria banat ynambu nextness",
+    "type": "osteria",
+    "address": "Largo Kevin Sousa, 35 - Portovenere",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 26,
+      "voto_piatto_principale": 3.97
+    }
+  },
+  {
+    "name": "locanda gonocyte synkatathesis mural",
+    "type": "locanda",
+    "address": "Piazzetta Tanya Holland, 85 - San Marco la Catola",
+    "info": {
+      "distanza_dal_centro": 1.26582778183635,
+      "voto_medio": 2.96
+    }
+  },
+  {
+    "name": "locanda shieldable observandum",
+    "type": "locanda",
+    "address": "Strada Alex Atala, 88 - Castel Ritaldi",
+    "info": {}
+  },
+  {
+    "name": "bar anemopathy",
+    "type": "bar",
+    "address": "Piazza Bobo Bergström, 140 - Porto Tolle",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 21,
+      "voto_piatto_principale": 3.6,
+      "distanza_dal_centro": 1.3198182015587987
+    }
+  },
+  {
+    "name": "bar mediostapedial",
+    "type": "bar",
+    "address": "Strada Alvin Leung, 40 - Prato allo Stelvio",
+    "info": {
+      "distanza_dal_centro": 5.2729150621069714
+    }
+  },
+  {
+    "name": "ristorante straucht intrench tankle",
+    "type": "buffet",
+    "address": "Largo Lorna McNee, 135 - Corte Franca",
+    "info": {}
+  },
+  {
+    "name": "osteria fishlike screener fairyland",
+    "type": "osteria",
+    "address": "Largo Gordon Ramsay, 0 - Monsummano Terme",
+    "info": {}
+  },
+  {
+    "name": "bar tibiotarsal",
+    "type": "bar",
+    "address": "Viale Sean Sherman, 18 - Castel d'Ario",
+    "info": {
+      "voto_medio": 4.01
+    }
+  },
+  {
+    "name": "locanda developability foresteep arsesmart",
+    "type": "locanda",
+    "address": "Vicolo Missy Robbins, 61 - Casalpusterlengo",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 29,
+      "voto_piatto_principale": 4.94,
+      "distanza_dal_centro": 1.3006372048999615
+    }
+  },
+  {
+    "name": "bar boccarella",
+    "type": "bar",
+    "address": "Via Jessica Largey, 13 - Budrio",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria terminably missel heterandry",
+    "type": "osteria",
+    "address": "Piazza Rachel Allen, 149 - Cucciago",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 27,
+      "voto_piatto_principale": 3.91
+    }
+  },
+  {
+    "name": "bar overindulge",
+    "type": "bar",
+    "address": "Corso Nathan Lyon, 67 - Roccaspinalveti",
+    "info": {
+      "voto_medio": 2.1
+    }
+  },
+  {
+    "name": "osteria ipseand",
+    "type": "osteria",
+    "address": "Piazza Francesco Bellissimo, 138 - Prettau",
+    "info": {}
+  },
+  {
+    "name": "bar ooid carbanil",
+    "type": "bar",
+    "address": "Viale Matthew Kenney, 67 - Formigara",
+    "info": {}
+  },
+  {
+    "name": "ristorante carper meatman protracheate",
+    "type": "messicano",
+    "address": "Piazza Traci Des Jardins, 107 - Viggiano",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 23,
+      "voto_piatto_principale": 4.04,
+      "distanza_dal_centro": 5.1958640018836686,
+      "voto_medio": 2.15
+    }
+  },
+  {
+    "name": "locanda unyoung",
+    "type": "locanda",
+    "address": "Via Lorna McNee, 101 - Roisan",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 18,
+      "voto_piatto_principale": 3.86
+    }
+  },
+  {
+    "name": "ristorante coulure prodespotism saltier",
+    "type": "indiano",
+    "address": "Corso Paula Deen, 145 - Peschici",
+    "info": {
+      "voto_medio": 4.19
+    }
+  },
+  {
+    "name": "bar glutinosity reparatory geomorphogenic",
+    "type": "bar",
+    "address": "Viale Thierry Laborde, 145 - Ceraso",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "locanda monogynic",
+    "type": "locanda",
+    "address": "Corso Colombe Jacobsen, 46 - Volvera",
+    "info": {
+      "distanza_dal_centro": 2.2485767240369627
+    }
+  },
+  {
+    "name": "ristorante karyolytic",
+    "type": "fast-food",
+    "address": "Corso Christina Tosi, 75 - San Lorenzo Bellizzi",
+    "info": {
+      "voto_medio": 3.53
+    }
+  },
+  {
+    "name": "ristorante swabberly nonevil distrainment",
+    "type": "elegante",
+    "address": "Piazza Yotam Ottolenghi, 17 - Amato",
+    "info": {
+      "voto_medio": 2.13
+    }
+  },
+  {
+    "name": "bar hurtless",
+    "type": "bar",
+    "address": "Via Lee Anne Wong, 75 - Villamassargia",
+    "info": {}
+  },
+  {
+    "name": "bar ployment",
+    "type": "bar",
+    "address": "Largo Saiphin Moore, 32 - Monrupino",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 1.05
+    }
+  },
+  {
+    "name": "ristorante genotypically sackman eudaemonize",
+    "type": "italiano",
+    "address": "Via Luke Thomas, 140 - Vezza d'Alba",
+    "info": {}
+  },
+  {
+    "name": "ristorante trillet",
+    "type": "messicano",
+    "address": "Strada Susur Lee, 70 - Bidonì",
+    "info": {}
+  },
+  {
+    "name": "locanda underbreathing fermentable mattock",
+    "type": "locanda",
+    "address": "Piazza Chris Santos, 122 - Candida",
+    "info": {
+      "distanza_dal_centro": 3.89929810356959
+    }
+  },
+  {
+    "name": "ristorante plasmase ruttiness",
+    "type": "mensa",
+    "address": "Strada Guy Fieri, 122 - Bracca",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 1.21,
+      "distanza_dal_centro": 0.37120452207747756
+    }
+  },
+  {
+    "name": "ristorante Augustinian Dorking readopt",
+    "type": "fast-food",
+    "address": "Piazzetta Connie Achurra, 145 - Laurito",
+    "info": {}
+  },
+  {
+    "name": "bar daube",
+    "type": "bar",
+    "address": "Corso Amanda Freitag, 68 - St. Christina in Groeden",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 25,
+      "voto_piatto_principale": 2.4,
+      "voto_medio": 3.78
+    }
+  },
+  {
+    "name": "bar commonplacer extensory gruffy",
+    "type": "bar",
+    "address": "Viale Lois Ellen Frank, 40 - Serravalle Langhe",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante strauchten Rik smallsword",
+    "type": "buffet",
+    "address": "Corso Anette Grecchi Gray, 130 - Marineo",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 9,
+      "voto_piatto_principale": 3.28
+    }
+  },
+  {
+    "name": "locanda orphanize dunite",
+    "type": "locanda",
+    "address": "Via Erez Komarovsky, 13 - Lesa",
+    "info": {}
+  },
+  {
+    "name": "locanda madreporarian perishable instantial",
+    "type": "locanda",
+    "address": "Piazzetta Susur Lee, 87 - Sadali",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 4.62
+    }
+  },
+  {
+    "name": "ristorante unnethes spindlelegs thyroparathyroidectomize",
+    "type": "allyoucaneat",
+    "address": "Strada Christophe Pierre Roucher, 8 - Colli del Tronto",
+    "info": {
+      "distanza_dal_centro": 2.7300345423218717
+    }
+  },
+  {
+    "name": "osteria twanky setule hemamoeba",
+    "type": "osteria",
+    "address": "Vicolo Jamie Bissonnette, 79 - Scandriglia",
+    "info": {
+      "distanza_dal_centro": 1.2699549940930228,
+      "voto_medio": 2.46
+    }
+  },
+  {
+    "name": "osteria uprisement soiled cicatricose",
+    "type": "osteria",
+    "address": "Vicolo Alex Atala, 77 - Fara Olivana con Sola",
+    "info": {
+      "voto_medio": 3.26
+    }
+  },
+  {
+    "name": "locanda zoosporangia",
+    "type": "locanda",
+    "address": "Corso Lenny McNab, 87 - Canzano",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 27,
+      "voto_piatto_principale": 2.21,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "locanda leasemonger dibenzopyrrole",
+    "type": "locanda",
+    "address": "Piazzale Nikola Vuković, 83 - Reino",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 3.63
+    }
+  },
+  {
+    "name": "ristorante preapprobation",
+    "type": "Italiano",
+    "address": "Piazzetta Dan Barber, 102 - Gasperina",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 41,
+      "voto_piatto_principale": 1.07,
+      "distanza_dal_centro": null,
+      "voto_medio": 2.5
+    }
+  },
+  {
+    "name": "osteria sporangioid",
+    "type": "osteria",
+    "address": "Corso Daniel Rose, 75 - Miane",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 3.79
+    }
+  },
+  {
+    "name": "ristorante Cavidae Cynoidea subserviency",
+    "type": "allyoucaneat",
+    "address": "Vicolo Edward Young-min Kwon, 32 - Castelnuovo Berardenga",
+    "info": {}
+  },
+  {
+    "name": "ristorante Urartaean heliolatry",
+    "type": "fastfood",
+    "address": "Piazzetta Celia Jiménez, 73 - Parlasco",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 46,
+      "voto_piatto_principale": 3.52,
+      "voto_medio": 0.64
+    }
+  },
+  {
+    "name": "ristorante stencil lech ozonate",
+    "type": "Elegante",
+    "address": "Via Suresh Pillai, 18 - Acquafondata",
+    "info": {
+      "distanza_dal_centro": 1.4350198478247016,
+      "voto_medio": 1.45
+    }
+  },
+  {
+    "name": "bar strategically irreverently",
+    "type": "bar",
+    "address": "Via Kylie Kwong, 89 - Cantagallo",
+    "info": {}
+  },
+  {
+    "name": "locanda jasmine bitterful",
+    "type": "locanda",
+    "address": "Piazza Francis Mallmann, 110 - Corchiano",
+    "info": {}
+  },
+  {
+    "name": "osteria tetanically",
+    "type": "osteria",
+    "address": "Piazza Danni Barry, 125 - Mediglia",
+    "info": {
+      "distanza_dal_centro": 4.7626148475486785
+    }
+  },
+  {
+    "name": "bar hyponitrite stumbly",
+    "type": "bar",
+    "address": "Piazza Kamilla Seidler, 59 - Carpineto Romano",
+    "info": {
+      "voto_medio": 2.85
+    }
+  },
+  {
+    "name": "ristorante limaciform undergabble hyperphysics",
+    "type": "argent1no",
+    "address": "Corso Magnus Nilsson, 127 - Esino Lario",
+    "info": {}
+  },
+  {
+    "name": "ristorante rosetted squeamish parsonize",
+    "type": "Elegante",
+    "address": "Viale Franco Noriega, 144 - Cassano Spinola",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante cupola",
+    "type": "mensa",
+    "address": "Piazzetta Wang Gang, 103 - Guglionesi",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 51,
+      "voto_piatto_principale": 1.42
+    }
+  },
+  {
+    "name": "ristorante plumemaking gratuitant quannet",
+    "type": "Messicano",
+    "address": "Strada Nancy Silverton, 6 - Crandola Valsassina",
+    "info": {}
+  },
+  {
+    "name": "ristorante foreglance",
+    "type": "fusion",
+    "address": "Via Chris Cosentino, 62 - Montresta",
+    "info": {}
+  },
+  {
+    "name": "locanda naphthamine",
+    "type": "locanda",
+    "address": "Corso Jun Tanaka, 10 - Sant'Anatolia di Narco",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 1.13
+    }
+  },
+  {
+    "name": "osteria gastriloquy muktatma misspender",
+    "type": "osteria",
+    "address": "Largo Sean Brock, 96 - Cerreto di Spoleto",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 12,
+      "voto_piatto_principale": 4.5,
+      "distanza_dal_centro": null,
+      "voto_medio": 2.32
+    }
+  },
+  {
+    "name": "locanda biblioklept vestlet wildbore",
+    "type": "locanda",
+    "address": "Largo Pete Evans, 15 - Ossago Lodigiano",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria hymenopterology shopwife",
+    "type": "osteria",
+    "address": "Vicolo Ali Salem Edbowa, 25 - Belmonte Castello",
+    "info": {}
+  },
+  {
+    "name": "ristorante unexpressively unscreened",
+    "type": "allyoucaneat",
+    "address": "Viale Jay Rayner, 4 - Gambara",
+    "info": {}
+  },
+  {
+    "name": "locanda borasque frisk irreligionism",
+    "type": "locanda",
+    "address": "Corso Dave Arnold, 54 - Sezzadio",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar Bumelia maltose",
+    "type": "bar",
+    "address": "Piazzale Erchen Chang, 136 - Ultimo",
+    "info": {
+      "distanza_dal_centro": 1.182094375025726
+    }
+  },
+  {
+    "name": "ristorante nereite meril",
+    "type": "c1nese",
+    "address": "Viale Scott Conant, 6 - Cortandone",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 48,
+      "voto_piatto_principale": 4.22,
+      "distanza_dal_centro": 5.5962163196115569,
+      "voto_medio": 4.3
+    }
+  },
+  {
+    "name": "ristorante thigmotropically precompulsion unerasable",
+    "type": "catena",
+    "address": "Corso Kevin Thornton, 92 - Castrocaro Terme e Terra del Sole",
+    "info": {
+      "distanza_dal_centro": 2.2467916412128108,
+      "voto_medio": 4.23
+    }
+  },
+  {
+    "name": "ristorante tetrachloride feloid",
+    "type": "fusion",
+    "address": "Viale Gordon Ramsay, 137 - Alia",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 18,
+      "voto_piatto_principale": 2.52,
+      "distanza_dal_centro": 5.1922323691197887
+    }
+  },
+  {
+    "name": "osteria transitional",
+    "type": "osteria",
+    "address": "Corso Dan Mullane, 142 - Cervasca",
+    "info": {
+      "distanza_dal_centro": 5.7788599609159945,
+      "voto_medio": 0.74
+    }
+  },
+  {
+    "name": "locanda Harpagornis",
+    "type": "locanda",
+    "address": "Via David Chang, 96 - Vittoria",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar azimide gyniatrics multilinguist",
+    "type": "bar",
+    "address": "Viale Samia Ahad, 23 - Vicolungo",
+    "info": {
+      "voto_medio": 1.87
+    }
+  },
+  {
+    "name": "ristorante epidermic",
+    "type": "cinese",
+    "address": "Viale Claus Meyer,, 75 - Mestrino",
+    "info": {
+      "voto_medio": 4.53
+    }
+  },
+  {
+    "name": "ristorante limelight coccinella",
+    "type": "messicano",
+    "address": "Vicolo Kylie Kwong, 19 - Vernazza",
+    "info": {
+      "voto_medio": 2.63
+    }
+  },
+  {
+    "name": "ristorante Cakavci rovetto",
+    "type": "fusion",
+    "address": "Piazzetta Dave Arnold, 72 - Sergnano",
+    "info": {
+      "distanza_dal_centro": 4.7497652605733807
+    }
+  },
+  {
+    "name": "locanda thermology",
+    "type": "locanda",
+    "address": "Strada Ching He Huang, 98 - Orzinuovi",
+    "info": {
+      "voto_medio": 2.01
+    }
+  },
+  {
+    "name": "ristorante Auscultoscope preadjustment arthrospore",
+    "type": "Messicano",
+    "address": "Strada Amy Finley, 119 - Castiglione Chiavarese",
+    "info": {
+      "distanza_dal_centro": 0.38778296124411438
+    }
+  },
+  {
+    "name": "locanda Yeniseian semiappressed maccoboy",
+    "type": "locanda",
+    "address": "Vicolo Paula Deen, 119 - Agrate Brianza",
+    "info": {
+      "voto_medio": 1.01
+    }
+  },
+  {
+    "name": "locanda periodize",
+    "type": "locanda",
+    "address": "Piazzale Lois Ellen Frank, 33 - Recoaro Terme",
+    "info": {}
+  },
+  {
+    "name": "ristorante assuasive",
+    "type": "all you can eat",
+    "address": "Strada Sean Sherman, 116 - Altino",
+    "info": {
+      "distanza_dal_centro": 5.2307828369584026
+    }
+  },
+  {
+    "name": "osteria Regulus suggestionize kovil",
+    "type": "osteria",
+    "address": "Viale Beau MacMillan, 21 - Loranzè",
+    "info": {
+      "voto_medio": 3.56
+    }
+  },
+  {
+    "name": "locanda exuviable siphorhinal",
+    "type": "locanda",
+    "address": "Strada Kylie Kwong, 42 - Borgolavezzaro",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante neurophagy griffade",
+    "type": "c1nese",
+    "address": "Viale Marcus Samuelsson, 39 - Lavagno",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria luigino Arianistical tautomeral",
+    "type": "osteria",
+    "address": "Piazzetta Mike Colameco, 134 - Prata Sannita",
+    "info": {}
+  },
+  {
+    "name": "bar mermaid devaluation altruistically",
+    "type": "bar",
+    "address": "Viale Anne Burrell, 134 - Ledro",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar beflum reshearer",
+    "type": "bar",
+    "address": "Strada Jay Rayner, 3 - Castelsantangelo sul Nera",
+    "info": {
+      "voto_medio": 3.77
+    }
+  },
+  {
+    "name": "bar dotterel termlessness antieyestrain",
+    "type": "bar",
+    "address": "Strada Gabriela Cámara, 118 - Sella Giudicarie",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 1.64
+    }
+  },
+  {
+    "name": "locanda undenizened orchester",
+    "type": "locanda",
+    "address": "Via Maneet Chauhan, 128 - Canegrate",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 44,
+      "voto_piatto_principale": 2.82,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria muddybreast",
+    "type": "osteria",
+    "address": "Piazzetta Thierry Laborde, 81 - Collevecchio",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 0.82
+    }
+  },
+  {
+    "name": "osteria quinite",
+    "type": "osteria",
+    "address": "Corso Madison Cowan, 109 - Castelsaraceno",
+    "info": {
+      "distanza_dal_centro": 1.5551361598932929
+    }
+  },
+  {
+    "name": "ristorante blennosis arterioarctia",
+    "type": "fast-food",
+    "address": "Strada Francesco Bellissimo, 4 - Cassaro",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 62,
+      "voto_piatto_principale": 0.39,
+      "voto_medio": 1.85
+    }
+  },
+  {
+    "name": "bar windwaywardly",
+    "type": "bar",
+    "address": "Via Kate Williams, 86 - Casaletto Lodigiano",
+    "info": {
+      "distanza_dal_centro": 2.3007779612535506,
+      "voto_medio": 0.85
+    }
+  },
+  {
+    "name": "locanda triplumbic countertreason",
+    "type": "locanda",
+    "address": "Via Gabriele Bertaccini, 100 - Lierna",
+    "info": {
+      "voto_medio": 2.27
+    }
+  },
+  {
+    "name": "ristorante chromitite Botaurinae",
+    "type": "mensa",
+    "address": "Viale Yotam Ottolenghi, 114 - Campofelice di Fitalia",
+    "info": {
+      "voto_medio": 2.75
+    }
+  },
+  {
+    "name": "bar potcher Mongol kidnapee",
+    "type": "bar",
+    "address": "Piazzale Matt Dowling, 13 - Zafferana Etnea",
+    "info": {
+      "voto_medio": 4.43
+    }
+  },
+  {
+    "name": "osteria unhaunted",
+    "type": "osteria",
+    "address": "Vicolo Franco Noriega, 140 - Bedonia",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 41,
+      "voto_piatto_principale": 0.54,
+      "voto_medio": 3.04
+    }
+  },
+  {
+    "name": "ristorante overplus sesti hematopericardium",
+    "type": "mensa",
+    "address": "Corso Mike Colameco, 21 - Pralormo",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 25,
+      "voto_piatto_principale": 0.12
+    }
+  },
+  {
+    "name": "osteria rectificative legless scabrous",
+    "type": "osteria",
+    "address": "Via Rick Moonen, 63 - Argentera",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 51,
+      "voto_piatto_principale": 2.03,
+      "distanza_dal_centro": null,
+      "voto_medio": 1.7
+    }
+  },
+  {
+    "name": "bar dermatotomy gourmanderie",
+    "type": "bar",
+    "address": "Corso Clare Smyth, 12 - Campora",
+    "info": {}
+  },
+  {
+    "name": "bar northwesterly",
+    "type": "bar",
+    "address": "Largo Nieves Barragán Mohacho, 115 - Vittoria",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 32,
+      "voto_piatto_principale": 4.11,
+      "distanza_dal_centro": 0.921851997500194
+    }
+  },
+  {
+    "name": "osteria progenital",
+    "type": "osteria",
+    "address": "Piazzetta Missy Robbins, 123 - Pianico",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 34,
+      "voto_piatto_principale": 1.04
+    }
+  },
+  {
+    "name": "bar unflower purposelessness preconcede",
+    "type": "bar",
+    "address": "Piazzale Katie Lee, 105 - Polonghera",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 10,
+      "voto_piatto_principale": 2.35,
+      "distanza_dal_centro": 1.2000738280268644,
+      "voto_medio": 2.21
+    }
+  },
+  {
+    "name": "ristorante thundershower",
+    "type": "fastfood",
+    "address": "Corso Guy Fieri, 22 - Bella",
+    "info": {}
+  },
+  {
+    "name": "osteria anisoin",
+    "type": "osteria",
+    "address": "Corso Jamie Bissonnette, 138 - Loro Piceno",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 59,
+      "voto_piatto_principale": 1.18,
+      "voto_medio": 3.57
+    }
+  },
+  {
+    "name": "ristorante pithecanthropoid",
+    "type": "Italiano",
+    "address": "Piazzale Marc Murphy, 46 - Fiesole",
+    "info": {}
+  },
+  {
+    "name": "bar storiate stimuli",
+    "type": "bar",
+    "address": "Viale Marc Murphy, 122 - Carolei",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 2.27
+    }
+  },
+  {
+    "name": "ristorante degradingness",
+    "type": "fastfood",
+    "address": "Via Jessica Largey, 117 - Cassola",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 48,
+      "voto_piatto_principale": 4.02,
+      "voto_medio": 0.79
+    }
+  },
+  {
+    "name": "locanda shogi ritualistic",
+    "type": "locanda",
+    "address": "Piazza Jay Rayner, 10 - Percile",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 40,
+      "voto_piatto_principale": 3.88
+    }
+  },
+  {
+    "name": "locanda denudate unredeemed",
+    "type": "locanda",
+    "address": "Viale Sophie Wright, 63 - Mugnano del Cardinale",
+    "info": {}
+  },
+  {
+    "name": "ristorante decemlocular pharyngognath micromorph",
+    "type": "Elegante",
+    "address": "Largo Carlo Cracco, 64 - Assolo",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 3.97
+    }
+  },
+  {
+    "name": "bar retinene podex",
+    "type": "bar",
+    "address": "Corso Lois Ellen Frank, 126 - Montescheno",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 4.52
+    }
+  },
+  {
+    "name": "bar shipwrightry dodginess",
+    "type": "bar",
+    "address": "Corso Yianni Papoutsis, 71 - Valle di Maddaloni",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 61,
+      "voto_piatto_principale": 0.27
+    }
+  },
+  {
+    "name": "ristorante stocktaker",
+    "type": "messicano",
+    "address": "Vicolo Lorraine Pascale, 100 - Contà",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "locanda tubulose",
+    "type": "locanda",
+    "address": "Strada Giada De Laurentiis, 128 - Massa Lubrense",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 26,
+      "voto_piatto_principale": 1.04,
+      "distanza_dal_centro": 5.7875311777090594,
+      "voto_medio": 0.33
+    }
+  },
+  {
+    "name": "ristorante surprising agalawood",
+    "type": "Italiano",
+    "address": "Piazzale Gianfranco Chiarini, 30 - Cefalù",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante triliteralism oilberry",
+    "type": "c1nese",
+    "address": "Largo Daniel Rose, 100 - Monticelli d'Ongina",
+    "info": {
+      "distanza_dal_centro": 0.66046097010794158
+    }
+  },
+  {
+    "name": "ristorante sacrocaudal acrindoline servient",
+    "type": "fast-food",
+    "address": "Corso Sophie Wright, 18 - Castelfidardo",
+    "info": {}
+  },
+  {
+    "name": "bar underking",
+    "type": "bar",
+    "address": "Viale Donal Skehan, 112 - Poggibonsi",
+    "info": {
+      "distanza_dal_centro": 5.8392732650067609
+    }
+  },
+  {
+    "name": "osteria annunciation overthrong buttermaker",
+    "type": "osteria",
+    "address": "Piazzale Daniel Rose, 96 - Cuggiono",
+    "info": {
+      "voto_medio": 4.98
+    }
+  },
+  {
+    "name": "osteria sylvestrene otoscope",
+    "type": "osteria",
+    "address": "Via Ripudaman Handa, 141 - Valbrona",
+    "info": {}
+  },
+  {
+    "name": "locanda withvine axopodium",
+    "type": "locanda",
+    "address": "Via Sarah Grueneberg, 4 - Castenaso",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 31,
+      "voto_piatto_principale": 2.24
+    }
+  },
+  {
+    "name": "bar pterygote haslock Madurese",
+    "type": "bar",
+    "address": "Viale Danny Bowien, 122 - Palmoli",
+    "info": {}
+  },
+  {
+    "name": "locanda mechanic fortunetell predefend",
+    "type": "locanda",
+    "address": "Via Yotam Ottolenghi, 33 - Valtopina",
+    "info": {}
+  },
+  {
+    "name": "bar phoenicopteroid",
+    "type": "bar",
+    "address": "Largo Richard Blais, 27 - Vallerano",
+    "info": {
+      "voto_medio": 2.96
+    }
+  },
+  {
+    "name": "locanda bouillabaisse oilcoat",
+    "type": "locanda",
+    "address": "Piazzetta Kevin Dundon, 138 - Resiutta",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": -16,
+      "voto_piatto_principale": 1.0
+    }
+  },
+  {
+    "name": "ristorante contradiscriminate interfector",
+    "type": "messicano",
+    "address": "Corso Susur Lee, 0 - Cortona",
+    "info": {}
+  },
+  {
+    "name": "osteria unreversible tineal",
+    "type": "osteria",
+    "address": "Viale John Shields, 20 - Barrea",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 7,
+      "voto_piatto_principale": 3.06,
+      "voto_medio": 0.23
+    }
+  },
+  {
+    "name": "ristorante unvaryingly indignancy",
+    "type": "fusion",
+    "address": "Piazzetta José Andrés, 130 - Campodipietra",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 4.13
+    }
+  },
+  {
+    "name": "locanda tundun",
+    "type": "locanda",
+    "address": "Strada Anita Klemensen, 131 - Camaiore",
+    "info": {}
+  },
+  {
+    "name": "ristorante Changuinan Paranthropus",
+    "type": "Messicano",
+    "address": "Viale Matthew Kenney, 139 - Aieta",
+    "info": {
+      "distanza_dal_centro": 0.86380408592232261
+    }
+  },
+  {
+    "name": "osteria unneedfulness ecphorize",
+    "type": "osteria",
+    "address": "Largo Catherine Fulvio, 71 - Irma",
+    "info": {}
+  },
+  {
+    "name": "ristorante alcohate monometrical",
+    "type": "all-you-can-eat",
+    "address": "Vicolo Amanda Freitag, 81 - Arlena di Castro",
+    "info": {}
+  },
+  {
+    "name": "ristorante Malaccan",
+    "type": "Italiano",
+    "address": "Corso Martha Ortiz, 115 - Nespolo",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 60,
+      "voto_piatto_principale": 2.17
+    }
+  },
+  {
+    "name": "osteria unludicrous Litopterna",
+    "type": "osteria",
+    "address": "Piazzale Florence Knight, 22 - Sant'Eufemia a Maiella",
+    "info": {
+      "voto_medio": 4.02
+    }
+  },
+  {
+    "name": "ristorante boobyalla",
+    "type": "streetfood",
+    "address": "Via Emily Watkins, 34 - Martone",
+    "info": {
+      "distanza_dal_centro": 2.8217851865493833
+    }
+  },
+  {
+    "name": "ristorante weesh affirmance",
+    "type": "cinese",
+    "address": "Piazzetta Cat Cora, 116 - Civitanova del Sannio",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 51,
+      "voto_piatto_principale": 2.52
+    }
+  },
+  {
+    "name": "ristorante bibliophilistic semicentury",
+    "type": "Elegante",
+    "address": "Corso Freddie Bitsoie, 119 - Cerreto di Spoleto",
+    "info": {
+      "voto_medio": 0.23
+    }
+  },
+  {
+    "name": "ristorante electrochemist loppet",
+    "type": "streetfood",
+    "address": "Piazza Nadia Giosia, 131 - Atzara",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 42,
+      "voto_piatto_principale": 3.89,
+      "voto_medio": 1.7
+    }
+  },
+  {
+    "name": "bar inquietness Thalamophora",
+    "type": "bar",
+    "address": "Corso Nikola Vuković, 9 - Montelupone",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 44,
+      "voto_piatto_principale": 1.45,
+      "distanza_dal_centro": 1.2708057620410016
+    }
+  },
+  {
+    "name": "bar earliness",
+    "type": "bar",
+    "address": "Corso Connie Achurra, 123 - Altrei",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 11,
+      "voto_piatto_principale": 2.58,
+      "distanza_dal_centro": 1.2430131494400758
+    }
+  },
+  {
+    "name": "ristorante Pomaderris aria",
+    "type": "allyoucaneat",
+    "address": "Vicolo Derry Clarke, 53 - Salaparuta",
+    "info": {}
+  },
+  {
+    "name": "locanda unconverted",
+    "type": "locanda",
+    "address": "Vicolo Connie Achurra, 102 - Sant'Agata de' Goti",
+    "info": {
+      "distanza_dal_centro": 1.982354267044373,
+      "voto_medio": 2.42
+    }
+  },
+  {
+    "name": "osteria authenticity infralapsarian bibliographically",
+    "type": "osteria",
+    "address": "Piazzale Andre Rush, 77 - Russi",
+    "info": {
+      "distanza_dal_centro": 0.62052572388729654
+    }
+  },
+  {
+    "name": "osteria newsreel",
+    "type": "osteria",
+    "address": "Strada Dawar Khan, 125 - Contessa Entellina",
+    "info": {}
+  },
+  {
+    "name": "osteria Psittaciformes",
+    "type": "osteria",
+    "address": "Strada Christina Tosi, 53 - Ferrera Erbognone",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 1.71
+    }
+  },
+  {
+    "name": "osteria fortunetell",
+    "type": "osteria",
+    "address": "Corso Damaris Phillips, 46 - Francavilla Fontana",
+    "info": {}
+  },
+  {
+    "name": "ristorante bedless specialism",
+    "type": "fusion",
+    "address": "Piazza Simon Rimmer, 45 - Lesina",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 19,
+      "voto_piatto_principale": 1.94,
+      "distanza_dal_centro": 2.7519482006016021
+    }
+  },
+  {
+    "name": "ristorante polychromous zwieback",
+    "type": "fast-food",
+    "address": "Strada Sean Sherman, 42 - Signa",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 23,
+      "voto_piatto_principale": 0.37,
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "osteria melitis Renu pitmirk",
+    "type": "osteria",
+    "address": "Viale Matthew Kenney, 146 - Abbadia Lariana",
+    "info": {
+      "distanza_dal_centro": 1.8634138646939236,
+      "voto_medio": 0.75
+    }
+  },
+  {
+    "name": "bar salicetum",
+    "type": "bar",
+    "address": "Via Lorraine Pascale, 114 - Botticino",
+    "info": {
+      "voto_medio": 0.68
+    }
+  },
+  {
+    "name": "locanda omnipotentiality tasteful",
+    "type": "locanda",
+    "address": "Vicolo Mark Peel, 117 - Remedello",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 14,
+      "voto_piatto_principale": 2.66,
+      "voto_medio": 4.64
+    }
+  },
+  {
+    "name": "locanda heterogynal hypertorrid gymnospermy",
+    "type": "locanda",
+    "address": "Viale Jay Rayner, 126 - Filiano",
+    "info": {
+      "tipo_piatto_principale": "verdure",
+      "prezzo_piatto_principale": 31,
+      "voto_piatto_principale": 0.1
+    }
+  },
+  {
+    "name": "osteria epopoean drammer strawfork",
+    "type": "osteria",
+    "address": "Piazzale Martha Ortiz, 31 - Conegliano",
+    "info": {
+      "voto_medio": 0.75
+    }
+  },
+  {
+    "name": "bar Seri pookaun hurleyhouse",
+    "type": "bar",
+    "address": "Corso Rachel Allen, 86 - Santhià",
+    "info": {}
+  },
+  {
+    "name": "locanda habitualize",
+    "type": "locanda",
+    "address": "Piazzale Christina Tosi, 110 - Portico e San Benedetto",
+    "info": {}
+  },
+  {
+    "name": "ristorante vibetoite Alternaria Leonid",
+    "type": "Messicano",
+    "address": "Piazza Matt Dowling, 90 - Turriaco",
+    "info": {}
+  },
+  {
+    "name": "osteria mannerable",
+    "type": "osteria",
+    "address": "Vicolo Paula Deen, 51 - Carunchio",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar Lophiomys evolution build",
+    "type": "bar",
+    "address": "Strada Yotam Ottolenghi, 104 - Cessaniti",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 43,
+      "voto_piatto_principale": 2.11,
+      "distanza_dal_centro": null,
+      "voto_medio": 0.86
+    }
+  },
+  {
+    "name": "locanda gatewards sulfa",
+    "type": "locanda",
+    "address": "Strada Suzette Gresham, 23 - Pieve Torina",
+    "info": {
+      "voto_medio": 4.7
+    }
+  },
+  {
+    "name": "bar electrodialyze Squamipennes",
+    "type": "bar",
+    "address": "Largo Dylan McGrath, 76 - Cercepiccola",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar Esebrias nomogenous terphenyl",
+    "type": "bar",
+    "address": "Piazza Jeffrey Saad, 8 - Campospinoso",
+    "info": {}
+  },
+  {
+    "name": "bar stratic mycodermatous",
+    "type": "bar",
+    "address": "Vicolo Erez Komarovsky, 125 - Cossombrato",
+    "info": {
+      "voto_medio": 1.08
+    }
+  },
+  {
+    "name": "bar honeylike",
+    "type": "bar",
+    "address": "Via Mary Sue Milliken, 3 - San Piero Patti",
+    "info": {}
+  },
+  {
+    "name": "osteria zel",
+    "type": "osteria",
+    "address": "Largo Eric Aubriot, 42 - Poggiomarino",
+    "info": {
+      "distanza_dal_centro": 3.5983875030137322,
+      "voto_medio": 2.35
+    }
+  },
+  {
+    "name": "bar quinina flisky temporalness",
+    "type": "bar",
+    "address": "Largo Erez Komarovsky, 85 - Valperga",
+    "info": {
+      "distanza_dal_centro": 5.1306067044706749,
+      "voto_medio": 0.52
+    }
+  },
+  {
+    "name": "locanda variolous salinometry",
+    "type": "locanda",
+    "address": "Corso Titti Qvarnström, 101 - Baiso",
+    "info": {
+      "voto_medio": 0.03
+    }
+  },
+  {
+    "name": "bar recto uninterestingness",
+    "type": "bar",
+    "address": "Vicolo Mark Peel, 59 - Ceranova",
+    "info": {}
+  },
+  {
+    "name": "ristorante survivor Gigi dint",
+    "type": "allyoucaneat",
+    "address": "Corso Claus Meyer,, 144 - Vignanello",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 50,
+      "voto_piatto_principale": 1.78
+    }
+  },
+  {
+    "name": "locanda purine citrin",
+    "type": "locanda",
+    "address": "Vicolo Mikael Jonsson, 136 - Muravera",
+    "info": {
+      "voto_medio": 4.21
+    }
+  },
+  {
+    "name": "ristorante monumentalization unrecordedness mirthlessness",
+    "type": "allyoucaneat",
+    "address": "Piazzetta Suzette Gresham, 69 - Casalpusterlengo",
+    "info": {
+      "voto_medio": 2.2
+    }
+  },
+  {
+    "name": "osteria hagship discomorula chromoxylograph",
+    "type": "osteria",
+    "address": "Piazzale Sean Sherman, 140 - Sant'Andrea del Garigliano",
+    "info": {
+      "tipo_piatto_principale": "pasta",
+      "prezzo_piatto_principale": 11,
+      "voto_piatto_principale": 4.91,
+      "voto_medio": 4.1
+    }
+  },
+  {
+    "name": "osteria chumpaka seawant latex",
+    "type": "osteria",
+    "address": "Corso Kate Williams, 118 - Costarainera",
+    "info": {
+      "voto_medio": 4.5
+    }
+  },
+  {
+    "name": "bar probability excruciation",
+    "type": "bar",
+    "address": "Vicolo Tanya Holland, 78 - Cornaredo",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 23,
+      "voto_piatto_principale": 2.69
+    }
+  },
+  {
+    "name": "bar physicking stichic obstetrist",
+    "type": "bar",
+    "address": "Via Richard Blais, 15 - Sabaudia",
+    "info": {}
+  },
+  {
+    "name": "bar Strongyloplasmata burlap hugelite",
+    "type": "bar",
+    "address": "Piazza Mary Sue Milliken, 5 - Perosa Argentina",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "locanda aminoanthraquinone",
+    "type": "locanda",
+    "address": "Corso Scott Conant, 97 - Carife",
+    "info": {
+      "voto_medio": 2.98
+    }
+  },
+  {
+    "name": "bar retramp",
+    "type": "bar",
+    "address": "Corso Jody Williams, 111 - Siano",
+    "info": {
+      "voto_medio": 0.84
+    }
+  },
+  {
+    "name": "bar crump charnel",
+    "type": "bar",
+    "address": "Corso Claus Meyer,, 100 - Pinerolo",
+    "info": {
+      "tipo_piatto_principale": "light",
+      "prezzo_piatto_principale": 50,
+      "voto_piatto_principale": 1.12,
+      "distanza_dal_centro": 3.4605713338583017
+    }
+  },
+  {
+    "name": "ristorante forefield",
+    "type": "allyoucaneat",
+    "address": "Viale Christine Hà, 86 - Zagarise",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "bar Nahua Argonaut drovy",
+    "type": "bar",
+    "address": "Via Giada De Laurentiis, 91 - Occhieppo Superiore",
+    "info": {
+      "voto_medio": 0.65
+    }
+  },
+  {
+    "name": "locanda catalpa tetrapylon fiendful",
+    "type": "locanda",
+    "address": "Piazzale Graham Elliot, 58 - Lusevera",
+    "info": {
+      "voto_medio": 3.1
+    }
+  },
+  {
+    "name": "ristorante patchouli Sandip nonchemical",
+    "type": "allyoucaneat",
+    "address": "Via Rachel Allen, 128 - San Giustino",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 2.12
+    }
+  },
+  {
+    "name": "osteria Whitmanesque",
+    "type": "osteria",
+    "address": "Corso Selin Kiazim, 45 - Villanova Truschedu",
+    "info": {
+      "voto_medio": 0.11
+    }
+  },
+  {
+    "name": "locanda rascallike",
+    "type": "locanda",
+    "address": "Piazzetta Anna Hansen, 72 - Biandrate",
+    "info": {}
+  },
+  {
+    "name": "bar Rupicola",
+    "type": "bar",
+    "address": "Largo Lillian Elidah, 50 - Rivarolo Mantovano",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": -1,
+      "voto_piatto_principale": 2.05,
+      "distanza_dal_centro": 3.5472363128398441
+    }
+  },
+  {
+    "name": "locanda coharmonious cramper",
+    "type": "locanda",
+    "address": "Largo Nathan Lyon, 131 - Sulzano",
+    "info": {}
+  },
+  {
+    "name": "osteria untimorous",
+    "type": "osteria",
+    "address": "Piazzale Laura Calder, 139 - Falconara Marittima",
+    "info": {
+      "tipo_piatto_principale": "alla piastra",
+      "prezzo_piatto_principale": 33,
+      "voto_piatto_principale": 3.3,
+      "voto_medio": 0.14
+    }
+  },
+  {
+    "name": "osteria paleoethnic",
+    "type": "osteria",
+    "address": "Strada Florence Knight, 50 - Bisenti",
+    "info": {
+      "voto_medio": 0.9
+    }
+  },
+  {
+    "name": "locanda fosse manner decempedate",
+    "type": "locanda",
+    "address": "Vicolo Derry Clarke, 112 - Luzzana",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "locanda sporty idiotic miction",
+    "type": "locanda",
+    "address": "Vicolo Sunny Anderson, 135 - Anoia",
+    "info": {
+      "distanza_dal_centro": null
+    }
+  },
+  {
+    "name": "ristorante sallowish beswarm",
+    "type": "elegante",
+    "address": "Via Angelo Ciccone, 1 - Bisuschio",
+    "info": {
+      "voto_medio": 3.66
+    }
+  },
+  {
+    "name": "locanda moonfall oomancy objectation",
+    "type": "locanda",
+    "address": "Strada Valentine Warner, 82 - Loria",
+    "info": {}
+  },
+  {
+    "name": "locanda antrotympanitis",
+    "type": "locanda",
+    "address": "Via Dylan McGrath, 49 - Villareggia",
+    "info": {
+      "distanza_dal_centro": 5.0755809227755639
+    }
+  },
+  {
+    "name": "ristorante citreous",
+    "type": "Messicano",
+    "address": "Piazzetta Franco Noriega, 47 - San Cesario sul Panaro",
+    "info": {}
+  },
+  {
+    "name": "osteria featherback louse",
+    "type": "osteria",
+    "address": "Strada Margot Janse, 127 - Cerenzia",
+    "info": {}
+  },
+  {
+    "name": "locanda contrabandage",
+    "type": "locanda",
+    "address": "Vicolo Scott Conant, 25 - Venegono Inferiore",
+    "info": {}
+  },
+  {
+    "name": "osteria pantochromic Casparian tambac",
+    "type": "osteria",
+    "address": "Viale Denis Cotter, 1 - Mezzana Bigli",
+    "info": {
+      "voto_medio": 1.41
+    }
+  },
+  {
+    "name": "locanda unriddled",
+    "type": "locanda",
+    "address": "Corso Christine Hà, 119 - San Maurizio Canavese",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 19,
+      "voto_piatto_principale": 0.12
+    }
+  },
+  {
+    "name": "osteria canicule monoethanolamine",
+    "type": "osteria",
+    "address": "Strada David Chang, 123 - Montemarciano",
+    "info": {
+      "voto_medio": 4.17
+    }
+  },
+  {
+    "name": "locanda underwood intersocietal moviedom",
+    "type": "locanda",
+    "address": "Strada Yianni Papoutsis, 49 - Meldola",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 30,
+      "voto_piatto_principale": 0.96
+    }
+  },
+  {
+    "name": "bar Nekkar mother thalassinoid",
+    "type": "bar",
+    "address": "Piazzetta Christine Hà, 108 - Cellarengo",
+    "info": {
+      "distanza_dal_centro": 1.8891098649999687,
+      "voto_medio": 0.73
+    }
+  },
+  {
+    "name": "locanda unbusinesslike demihuman unwifely",
+    "type": "locanda",
+    "address": "Via Shane Lyons, 53 - Tambre",
+    "info": {
+      "distanza_dal_centro": null,
+      "voto_medio": 2.33
+    }
+  },
+  {
+    "name": "ristorante scoriform coccydynia",
+    "type": "all you can eat",
+    "address": "Largo Daisy Martinez, 94 - Massimeno",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 36,
+      "voto_piatto_principale": 4.04
+    }
+  },
+  {
+    "name": "ristorante beflout gravelweed",
+    "type": "mensa",
+    "address": "Viale Kelsey Nixon, 6 - Sestriere",
+    "info": {}
+  },
+  {
+    "name": "osteria welsher gelidness proannexation",
+    "type": "osteria",
+    "address": "Largo Jose Garces, 80 - Magliano Sabina",
+    "info": {
+      "voto_medio": 3.28
+    }
+  },
+  {
+    "name": "osteria sheeting",
+    "type": "osteria",
+    "address": "Via Kevin Thornton, 108 - Pettorazza Grimani",
+    "info": {}
+  },
+  {
+    "name": "locanda perioplic antipudic",
+    "type": "locanda",
+    "address": "Largo José Andrés, 25 - Massa di Somma",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 52,
+      "voto_piatto_principale": 4.95
+    }
+  },
+  {
+    "name": "osteria slotwise",
+    "type": "osteria",
+    "address": "Piazzetta José Andrés, 28 - Monte San Pietro",
+    "info": {}
+  },
+  {
+    "name": "locanda toatoa irreviewable outcurse",
+    "type": "locanda",
+    "address": "Piazza Ted Allen, 17 - Nuvolera",
+    "info": {}
+  },
+  {
+    "name": "locanda autotrophy",
+    "type": "locanda",
+    "address": "Corso Sue Torres, 31 - Spezzano Albanese",
+    "info": {}
+  },
+  {
+    "name": "bar verisimilitude plass",
+    "type": "bar",
+    "address": "Piazzetta Bryant Terry, 2 - Chiusano di San Domenico",
+    "info": {
+      "voto_medio": 0.51
+    }
+  },
+  {
+    "name": "ristorante nomography",
+    "type": "Elegante",
+    "address": "Piazzetta Kamilla Seidler, 65 - Viguzzolo",
+    "info": {
+      "distanza_dal_centro": 2.6423230195223124
+    }
+  },
+  {
+    "name": "locanda guesten heterosomous thaumoscopic",
+    "type": "locanda",
+    "address": "Via Francesco Bellissimo, 16 - Pellegrino Parmense",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 31,
+      "voto_piatto_principale": 3.08
+    }
+  },
+  {
+    "name": "ristorante Brendan",
+    "type": "casereccio",
+    "address": "Corso Justin Bogle, 3 - Roccanova",
+    "info": {
+      "voto_medio": 0.2
+    }
+  },
+  {
+    "name": "ristorante electroendosmosis",
+    "type": "c1nese",
+    "address": "Strada Thierry Laborde, 128 - Monticello d'Alba",
+    "info": {
+      "tipo_piatto_principale": "arrosto",
+      "prezzo_piatto_principale": 1,
+      "voto_piatto_principale": 0.71,
+      "distanza_dal_centro": 4.683082576676953,
+      "voto_medio": 2.83
+    }
+  },
+  {
+    "name": "osteria juicily hundredpenny apocinchonine",
+    "type": "osteria",
+    "address": "Vicolo Tanya Holland, 116 - San Pietro a Maida",
+    "info": {}
+  },
+  {
+    "name": "locanda zoologicoarchaeologist",
+    "type": "locanda",
+    "address": "Vicolo Carlo Cracco, 133 - San Ferdinando",
+    "info": {
+      "distanza_dal_centro": 0.15613787975251281
+    }
+  },
+  {
+    "name": "osteria catchwork sedentation",
+    "type": "osteria",
+    "address": "Corso Pati Jinich, 88 - Lama dei Peligni",
+    "info": {
+      "voto_medio": 0.5
+    }
+  },
+  {
+    "name": "osteria subdiaphragmatic stick subconstellation",
+    "type": "osteria",
+    "address": "Largo Pati Jinich, 148 - Sicignano degli Alburni",
+    "info": {}
+  },
+  {
+    "name": "ristorante thiocarbamyl unbay",
+    "type": "italiano",
+    "address": "Strada Jessica Largey, 10 - Carbonara Scrivia",
+    "info": {
+      "tipo_piatto_principale": "carne",
+      "prezzo_piatto_principale": 20,
+      "voto_piatto_principale": 1.04,
+      "voto_medio": 0.94
+    }
+  },
+  {
+    "name": "osteria tripotassium",
+    "type": "osteria",
+    "address": "Piazzetta Christophe Pierre Roucher, 71 - Castelnuovo Magra",
+    "info": {
+      "voto_medio": 1.68
+    }
+  },
+  {
+    "name": "ristorante smilacaceous",
+    "type": "elegante",
+    "address": "Viale Lillian Elidah, 53 - Bergeggi",
+    "info": {
+      "tipo_piatto_principale": "zuppa",
+      "prezzo_piatto_principale": 22,
+      "voto_piatto_principale": 4.71,
+      "voto_medio": 2.88
+    }
+  },
+  {
+    "name": "locanda autothermy",
+    "type": "locanda",
+    "address": "Strada Aarón Sanchez, 82 - Serrenti",
+    "info": {
+      "tipo_piatto_principale": "al forno",
+      "prezzo_piatto_principale": 44,
+      "voto_piatto_principale": 3.07,
+      "voto_medio": 2.66
+    }
+  },
+  {
+    "name": "osteria scritoire",
+    "type": "osteria",
+    "address": "Corso Nadia Giosia, 20 - Brione",
+    "info": {
+      "tipo_piatto_principale": "vegan",
+      "prezzo_piatto_principale": 29,
+      "voto_piatto_principale": 1.28,
+      "distanza_dal_centro": 3.7492883057802544
+    }
+  },
+  {
+    "name": "osteria okee cachinnator",
+    "type": "osteria",
+    "address": "Via Jessica Largey, 88 - Monti",
+    "info": {
+      "tipo_piatto_principale": "dolce",
+      "prezzo_piatto_principale": 36,
+      "voto_piatto_principale": 3.21
+    }
+  },
+  {
+    "name": "osteria zoospermium presuffering",
+    "type": "osteria",
+    "address": "Largo Lorraine Pascale, 146 - San Mango sul Calore",
+    "info": {}
+  },
+  {
+    "name": "locanda lactophosphate molybdic",
+    "type": "locanda",
+    "address": "Piazzale Michel Nischan, 127 - Savogna d'Isonzo",
+    "info": {}
+  }
+]
